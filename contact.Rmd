@@ -2,4 +2,6 @@
 pagetitle: "Contact and CV | Hideki Kakinuma"
 ---
 
-Hello, Website!
+## Contact and CV
+<hr style="border-top: 2px solid #000;" />
+This website is a trial version.

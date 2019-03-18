@@ -2,4 +2,6 @@
 pagetitle: "Teaching | Hideki Kakinuma"
 ---
 
-Hello, Website!
+## Teaching
+<hr style="border-top: 2px solid #000;" />
+This website is a trial version.
