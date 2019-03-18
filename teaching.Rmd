@@ -1,5 +1,5 @@
 ---
-title: "Teaching | Hideki Kakinuma"
+pagetitle: "Teaching | Hideki Kakinuma"
 ---
 
 Hello, Website!

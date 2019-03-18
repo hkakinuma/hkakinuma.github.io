@@ -1,5 +1,5 @@
 ---
-title: "Contact and CV | Hideki Kakinuma"
+pagetitle: "Contact and CV | Hideki Kakinuma"
 ---
 
 Hello, Website!
