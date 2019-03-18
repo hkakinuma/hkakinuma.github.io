@@ -2,4 +2,6 @@
 pagetitle: "Home | Hideki Kakinuma"
 ---
 
-Hello, Website!
+About
+<hr>
+I am ...
