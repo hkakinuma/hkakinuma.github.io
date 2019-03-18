@@ -12,6 +12,6 @@ navbar:
       href: contact.html
 output:
     html_document:
+      lib_dir: libs
       include:
         after_body: footer.html
-output_dir: ""
