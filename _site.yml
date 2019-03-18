@@ -2,7 +2,7 @@ name: "my-website"
 output_dir: "."
 output:
     html_document:
-      theme: null
+      theme: default
       css: style.css
       include:
         after_body: footer.html
