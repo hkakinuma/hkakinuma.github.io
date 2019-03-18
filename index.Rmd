@@ -2,7 +2,12 @@
 pagetitle: "Home | Hideki Kakinuma"
 ---
 
-## About
-<hr style="border-top: 2px solid #000;" />
-This website is a trial version.
+## About {.tabset}
 
+
+### 日本語
+このサイトは作成中です。
+
+
+### English
+This website is being constructed.

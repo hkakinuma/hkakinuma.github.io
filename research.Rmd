@@ -2,6 +2,12 @@
 pagetitle: "Research | Hideki Kakinuma"
 ---
 
-## Research
-<hr style="border-top: 2px solid #000;" />
-This website is a trial version.
+## Research {.tabset}
+
+
+### 日本語
+このサイトは作成中です。
+
+
+### English
+This website is being constructed.
