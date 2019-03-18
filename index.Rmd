@@ -6,10 +6,10 @@ pagetitle: "Home | Hideki Kakinuma"
 
 
 ### 日本語
-氏名：柿沼 英樹 
-所属：環太平洋大学経営学部 講師 
-専門：人的資源管理論、組織行動論、キャリア論
+氏名：柿沼 英樹  
+所属：環太平洋大学経営学部 講師  
+専門：人的資源管理論、組織行動論、キャリア論  
 
 
 ### English
-Hideki Kakinuma is a Lecturer at the Faculty of Business Administration, International Pacific University, Japan. His research field lies mainly in Human Resource Management, Organizational Behavior, and Career Management.
+Hideki Kakinuma is a Lecturer at the Faculty of Business Administration, International Pacific University, Japan. His research field lies mainly in Human Resource Management, Organizational Behavior, and Career Management. He is now focusing on research into talent management, and human resource management in service industries.
