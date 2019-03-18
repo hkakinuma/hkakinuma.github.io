@@ -10,3 +10,8 @@ navbar:
       href: teaching.html
     - text: "Contact and CV"
       href: contact.html
+output:
+    html_document:
+      include:
+        after_body: footer.html
+output_dir: ""
