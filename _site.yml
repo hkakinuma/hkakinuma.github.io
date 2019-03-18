@@ -5,7 +5,7 @@ output:
       include:
         after_body: footer.html
 navbar:
-  title: ""
+  title: "Hideki Kakinuma [柿沼英樹]"
   left:
     - text: "Home"
       href: index.html
