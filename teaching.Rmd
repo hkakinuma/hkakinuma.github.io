@@ -6,8 +6,16 @@ pagetitle: "Teaching | Hideki Kakinuma"
 
 
 ### 日本語
-このサイトは作成中です。
++ 環太平洋大学経営学部
+    + 人的資源論 [2018]
+    + キャリア開発論 [2016～]
+    + ライフプランニングⅠ・Ⅱ [2016～]
+    + インターンシップⅠ [2017～]
 
+&#13;&#10;
+
++ 広島大学大学院工学研究科
+    + Technology Transfer [2018]（客員講師：英語、1コマ担当）
 
 ### English
 This website is being constructed.
