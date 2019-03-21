@@ -2,10 +2,10 @@
 pagetitle: "Teaching | Hideki Kakinuma"
 ---
 
-## Teaching {.tabset}
+# Teaching {.tabset}
 
 
-### 日本語
+## 日本語
 + 環太平洋大学経営学部
     + 人的資源論 [2018]
     + キャリア開発論 [2016～]
@@ -17,5 +17,14 @@ pagetitle: "Teaching | Hideki Kakinuma"
 + 広島大学大学院工学研究科
     + Technology Transfer [2018]（客員講師：英語、1コマ担当）
 
-### English
-This website is being constructed.
+## English
+<h4>Teaching experiences in Japanese</h4>
++ Faculty of Business Administration, International Pacific University, Japan.
+    + Human Resource Management [2018]
+    + Issues in Career Management [2016～]
+    + Life Planning Ⅰ・Ⅱ (Career and Personal Finance) [2016～]
+    + Internship [2017～]
+
+<h4 class="mb">Teaching experiences in English</h4>
++ Graduate School of Engineering, Hiroshima University, Japan.
+    + Technology Transfer [2018] (Visiting Lecturer, in charge of 1 of 15 classes)

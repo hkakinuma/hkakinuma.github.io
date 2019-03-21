@@ -2,10 +2,10 @@
 pagetitle: "Home | Hideki Kakinuma"
 ---
 
-## About {.tabset}
+# Introduction {.tabset}
 
 
-### 日本語
+## 日本語
 <table>
 <tbody>
 <tr>
@@ -26,7 +26,5 @@ pagetitle: "Home | Hideki Kakinuma"
 </tr></tbody>
 </table>
 
-### English
-Hideki Kakinuma is a Lecturer at the Faculty of Business Administration, International Pacific University, Japan.  
-
-His research field lies mainly in Human Resource Management, Organizational Behavior, and Career Management. He is now focusing on research into talent management, and human resource management in service industries.
+## English
+Hideki Kakinuma is a Lecturer at the Faculty of Business Administration, International Pacific University, Japan. My research field lies mainly in Human Resource Management, Organizational Behavior, and Career Management.

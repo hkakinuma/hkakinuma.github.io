@@ -2,10 +2,10 @@
 pagetitle: "Contact and CV | Hideki Kakinuma"
 ---
 
-## Contact and CV {.tabset}
+# Contact and CV {.tabset}
 
 
-### 日本語
+## 日本語
 <h3>お問合せ先</h3>
 柿沼 英樹  
 環太平洋大学経営学部 講師  
@@ -14,7 +14,7 @@ E-mail: h.kakinuma [at] ipu-japan.ac.jp
 <h3 class="mb">経歴・業績</h3>
 http://researchmap.jp/hkakinuma
 
-### English
+## English
 <h3>Contact</h3>
 Hideki KAKINUMA  
 Lecturer  
