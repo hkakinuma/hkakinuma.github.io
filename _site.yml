@@ -1,4 +1,4 @@
-name: "my-website"
+name: "Hideki Kakinuma's Website"
 output_dir: "."
 output:
     html_document:

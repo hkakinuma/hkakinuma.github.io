@@ -3,9 +3,11 @@ pagetitle: "Teaching | Hideki Kakinuma"
 ---
 
 # Teaching {.tabset}
+Last update（最終更新日）: `r Sys.Date()`
 
 
 ## 日本語
+<h4>担当経験のある科目</h4>
 + 環太平洋大学経営学部
     + 人的資源論 [2018]
     + キャリア開発論 [2016～]
