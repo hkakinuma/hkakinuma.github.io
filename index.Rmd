@@ -18,7 +18,9 @@ Last update（最終更新日）: `r Sys.Date()`
 </tr>
 <tr>
 <td width="100">最終学歴</td>
-<td>京都大学大学院経済学研究科博士後期課程 研究指導認定退学</td>
+<td>京都大学大学院経済学研究科博士後期課程 研究指導認定退学 [2016]  
+京都大学より博士（経済学）取得 [2019]
+</td>
 </tr>
 <tr>
 <td width="100">専門領域</td>
@@ -43,7 +45,8 @@ Last update（最終更新日）: `r Sys.Date()`
 </tr>
 <tr>
 <td width="140">Education</td>
-<td>MA in Social Informatics, Aoyama Gakuin University, 2011.  
+<td>PhD in Economics, Kyoto University, 2019.  
+MA in Social Informatics, Aoyama Gakuin University, 2011.  
 BCom in Commerce, Meiji University, 2007.</td>
 </tr>
 <tr>
