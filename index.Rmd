@@ -3,7 +3,6 @@ pagetitle: "Home | Hideki Kakinuma"
 ---
 
 # Introduction {.tabset}
-Last update（最終更新日）: `r Sys.Date()`
 
 ## 日本語
 <table>
