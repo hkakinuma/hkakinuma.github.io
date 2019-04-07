@@ -4,7 +4,6 @@ pagetitle: "Research | Hideki Kakinuma"
 
 # Research {.tabset}
 
-
 ## 日本語
 <h4>研究関心 / プロジェクト</h4>
 + タレントマネジメント
