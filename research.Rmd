@@ -14,7 +14,7 @@ pagetitle: "Research | Hideki Kakinuma"
     + サービス組織における人材開発
     + 宿泊産業における人材定着
 
-<h4 class="mb">公刊論文（近刊 / 査読あり）</h4>
+<h4 class="mb">論文（近刊）</h4>
 + 柿沼英樹 (2019). 『タレントマネジメント論の理論的展開とその日本型人事管理への含意』京都大学大学院経済学研究科博士学位申請論文.（未公刊）
 + 柿沼英樹 (2015). 「企業におけるジャストインタイムの人材配置の管理手法の意義－人的資源管理論でのタレントマネジメント論の展開」『経済論叢（京都大学）』*189* (2), 49-60.（査読あり）
 + Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. *International Journal of Business and Management*, *10* (2), 31-40. (Referred)
