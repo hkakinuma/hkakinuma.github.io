@@ -1,5 +1,5 @@
 ---
-pagetitle: "Home | Hideki Kakinuma"
+pagetitle: "Home | KAKINUMA Hideki"
 ---
 
 # Introduction {.tabset}
@@ -37,7 +37,7 @@ Last update（最終更新日）: `r Sys.Date()`
 <tbody>
 <tr>
 <td width="140" valign="top">Name</td>
-<td valign="top">Hideki KAKINUMA</td>
+<td valign="top">KAKINUMA Hideki</td>
 </tr>
 <tr>
 <td width="140" valign="top">Academic Position</td>

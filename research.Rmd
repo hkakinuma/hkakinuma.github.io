@@ -1,5 +1,5 @@
 ---
-pagetitle: "Research | Hideki Kakinuma"
+pagetitle: "Research | KAKINUMA Hideki"
 ---
 
 # Research {.tabset}
