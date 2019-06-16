@@ -8,7 +8,7 @@ pagetitle: "Teaching | KAKINUMA Hideki"
 ## 日本語
 <h4>担当経験のある科目</h4>
 + 環太平洋大学経営学部
-    + 人的資源論 [2018]
+    + 人的資源論 [2018～]
     + キャリア開発論 [2016～]
     + ライフプランニングⅠ・Ⅱ [2016～]
     + インターンシップⅠ [2017～]
@@ -21,7 +21,7 @@ pagetitle: "Teaching | KAKINUMA Hideki"
 ## English
 <h4>Teaching experiences in Japanese</h4>
 + Faculty of Business Administration, International Pacific University, Japan.
-    + Human Resource Management [2018]
+    + Human Resource Management [2018～]
     + Issues in Career Management [2016～]
     + Life Planning Ⅰ・Ⅱ (Career and Personal Finance) [2016～]
     + Internship [2017～]
