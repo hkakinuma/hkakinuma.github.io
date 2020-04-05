@@ -13,7 +13,7 @@ pagetitle: "Home | Hideki Kakinuma"
 </tr>
 <tr>
 <td width="100" valign="top">所属・職位</td>
-<td valign="top">環太平洋大学経営学部 講師 [2016.04～]</td>
+<td valign="top">流通科学大学商学部 准教授 [2020.04～]</td>
 </tr>
 <tr>
 <td width="100" valign="top">最終学歴</td>
@@ -40,7 +40,7 @@ pagetitle: "Home | Hideki Kakinuma"
 </tr>
 <tr>
 <td width="140" valign="top">Academic Position</td>
-<td valign="top">Lecturer, Faculty of Business Administration, International Pacific University, Japan, 2016.04-present.</td>
+<td valign="top">Lecturer, Faculty of Commerce, University of Marketing and Distribution Sciences, 2020.04-present.</td>
 </tr>
 <tr>
 <td width="140" valign="top">Education</td>

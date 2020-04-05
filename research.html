@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -70,9 +70,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -86,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -191,8 +188,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -237,6 +232,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -249,20 +245,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -331,10 +324,10 @@ $(document).ready(function () {
 論文（近刊）
 </h4>
 <ul>
-<li>柿沼英樹 (2019). 『タレントマネジメント論の理論的展開とその日本型人事管理への含意』京都大学大学院経済学研究科博士学位申請論文.（未公刊）</li>
-<li>柿沼英樹 (2015). 「企業におけるジャストインタイムの人材配置の管理手法の意義－人的資源管理論でのタレントマネジメント論の展開」『経済論叢（京都大学）』<em>189</em> (2), 49-60.（査読あり）</li>
+<li><p>柿沼英樹 (2019). 『タレントマネジメント論の理論的展開とその日本型人事管理への含意』京都大学大学院経済学研究科博士学位申請論文.（未公刊）</p></li>
+<li><p>柿沼英樹 (2015). 「企業におけるジャストインタイムの人材配置の管理手法の意義－人的資源管理論でのタレントマネジメント論の展開」『経済論叢（京都大学）』<em>189</em> (2), 49-60.（査読あり）</p></li>
 <li><p>Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. <em>International Journal of Business and Management</em>, <em>10</em> (2), 31-40. (Referred)</p></li>
-<li>柿沼英樹 (2018). 「タレントマネジメント論の計量書誌学的分析」『環太平洋大学研究紀要』<em>13</em>, 89-98.</li>
+<li><p>柿沼英樹 (2018). 「タレントマネジメント論の計量書誌学的分析」『環太平洋大学研究紀要』<em>13</em>, 89-98.</p></li>
 <li><p>柿沼英樹 (2018). 「戦略人事をめぐるリサーチ・アジェンダ」『環太平洋大学研究紀要』<em>12</em>, 69-78.</p></li>
 </ul>
 </div>
@@ -375,7 +368,7 @@ International conferences that have paper presented
 </div>
 </div>
 
-<div id="footer">Copyright &copy; 2019 Hideki KAKINUMA.</div>
+<div id="footer">Copyright &copy; KAKINUMA, Hideki.</div>
 
 
 
@@ -393,6 +386,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
