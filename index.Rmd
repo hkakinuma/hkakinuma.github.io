@@ -1,5 +1,5 @@
 ---
-pagetitle: "Home | Hideki Kakinuma"
+pagetitle: "Home | KAKINUMA Hideki"
 ---
 
 # Introduction {.tabset}
@@ -36,7 +36,7 @@ pagetitle: "Home | Hideki Kakinuma"
 <tbody>
 <tr>
 <td width="140" valign="top">Name</td>
-<td valign="top">Hideki KAKINUMA</td>
+<td valign="top">KAKINUMA Hideki</td>
 </tr>
 <tr>
 <td width="140" valign="top">Academic Position</td>
@@ -44,9 +44,9 @@ pagetitle: "Home | Hideki Kakinuma"
 </tr>
 <tr>
 <td width="140" valign="top">Education</td>
-<td valign="top">PhD in Economics, Kyoto University, 2019.  
-MA in Social Informatics, Aoyama Gakuin University, 2011.  
-BCom in Commerce, Meiji University, 2007.</td>
+<td valign="top">Ph.D. in Economics, Kyoto University, 2019.  
+M.A. in Social Informatics, Aoyama Gakuin University, 2011.  
+B.Com. in Commerce, Meiji University, 2007.</td>
 </tr>
 <tr>
 <td width="140" valign="top">Research Field</td>

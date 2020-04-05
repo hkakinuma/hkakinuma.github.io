@@ -1,5 +1,5 @@
 ---
-pagetitle: "Contact and CV | Hideki Kakinuma"
+pagetitle: "Contact and CV | KAKINUMA Hideki"
 ---
 
 # Contact and CV {.tabset}
@@ -16,7 +16,7 @@ http://researchmap.jp/hkakinuma
 
 ## English
 <h4>Contact</h4>
-Hideki KAKINUMA  
+KAKINUMA Hideki  
 Lecturer  
 Faculty of Business Administration  
 International Pacific University, Japan  
