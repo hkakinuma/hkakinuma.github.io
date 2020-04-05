@@ -40,7 +40,7 @@ pagetitle: "Home | KAKINUMA Hideki"
 </tr>
 <tr>
 <td width="140" valign="top">Academic Position</td>
-<td valign="top">Lecturer, Faculty of Commerce, University of Marketing and Distribution Sciences, 2020.04-present.</td>
+<td valign="top">Associate Professor, Faculty of Commerce, University of Marketing and Distribution Sciences, 2020.04-present.</td>
 </tr>
 <tr>
 <td width="140" valign="top">Education</td>
