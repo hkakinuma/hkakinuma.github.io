@@ -1,0 +1,20 @@
+name: "KAKINUMA Hideki's Website"
+output_dir: "."
+output:
+    html_document:
+      md_extensions: -ascii_identifiers
+      theme: default
+      css: style.css
+      include:
+        after_body: footer.html
+navbar:
+  title: "KAKINUMA Hideki ［柿沼 英樹］"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Contact and CV"
+      href: contact.html
