@@ -31,7 +31,7 @@ pagetitle: "Profile | KAKINUMA Hideki"
 <td valign="top">日本労務学会、組織学会、経営行動科学学会</td>
 </tr>
 <tr>
-<td width="100" valign="top">お問合せ先</td>
+<td width="100" valign="top">連絡先</td>
 <td valign="top">Hideki_Kakinuma [at] red.umds.ac.jp</td>
 </tr>
 </tbody>
