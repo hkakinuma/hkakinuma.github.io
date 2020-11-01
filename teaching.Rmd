@@ -2,7 +2,7 @@
 pagetitle: "Teaching | KAKINUMA Hideki"
 ---
 
-# Teaching {.tabset}
+# 教育 | Teaching {.tabset}
 
 
 ## 日本語

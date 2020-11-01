@@ -2,7 +2,7 @@
 pagetitle: "Home | KAKINUMA Hideki"
 ---
 
-# Introduction {.tabset}
+# 略歴 | Introduction {.tabset}
 
 ## 日本語
 <table>

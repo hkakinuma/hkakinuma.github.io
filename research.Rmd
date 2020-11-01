@@ -2,7 +2,7 @@
 pagetitle: "Research | KAKINUMA Hideki"
 ---
 
-# Research {.tabset}
+# 研究 | Research {.tabset}
 
 ## 日本語
 <h4>研究関心 / プロジェクト</h4>

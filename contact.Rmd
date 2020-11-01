@@ -1,8 +1,8 @@
 ---
-pagetitle: "Contact and CV | KAKINUMA Hideki"
+pagetitle: "Contact & CV | KAKINUMA Hideki"
 ---
 
-# Contact and CV {.tabset}
+# 問合せ | Contact & CV {.tabset}
 
 
 ## 日本語

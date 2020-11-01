@@ -8,13 +8,13 @@ output:
       include:
         after_body: footer.html
 navbar:
-  title: "KAKINUMA Hideki ［柿沼 英樹］"
+  title: "柿沼 英樹 [KAKINUMA, Hideki]"
   right:
-    - text: "Home"
+    - text: "略歴 | Home"
       href: index.html
-    - text: "Research"
+    - text: "研究 | Research"
       href: research.html
-    - text: "Teaching"
+    - text: "教育 | Teaching"
       href: teaching.html
-    - text: "Contact and CV"
+    - text: "問合せ | Contact & CV"
       href: contact.html
