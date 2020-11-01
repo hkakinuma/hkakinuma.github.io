@@ -1,8 +1,9 @@
 ---
-pagetitle: "Home | KAKINUMA Hideki"
+pagetitle: "Profile | KAKINUMA Hideki"
 ---
 
-# 略歴 | Introduction {.tabset}
+
+# 略歴 | Profile {.tabset}
 
 ## 日本語
 <table>
@@ -28,7 +29,12 @@ pagetitle: "Home | KAKINUMA Hideki"
 <tr>
 <td width="100" valign="top">所属学協会</td>
 <td valign="top">日本労務学会、組織学会、経営行動科学学会</td>
-</tr></tbody>
+</tr>
+<tr>
+<td width="100" valign="top">お問合せ先</td>
+<td valign="top">Hideki_Kakinuma [at] red.umds.ac.jp</td>
+</tr>
+</tbody>
 </table>
 
 ## English
@@ -51,6 +57,10 @@ B.Com. in Commerce, Meiji University, 2007.</td>
 <tr>
 <td width="140" valign="top">Research Field</td>
 <td valign="top">Human Resource Management, Organizational Behavior, Career Management.</td>
+</tr>
+<tr>
+<td width="140" valign="top">E-mail</td>
+<td valign="top">Hideki_Kakinuma [at] red.umds.ac.jp</td>
 </tr>
 </tbody>
 </table>
