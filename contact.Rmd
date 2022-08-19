@@ -9,7 +9,7 @@ pagetitle: "Contact & CV | KAKINUMA Hideki"
 <h4>お問合せ先</h4>
 柿沼 英樹  
 流通科学大学商学部 准教授  
-E-mail: Hideki_Kakinuma [at] red.umds.ac.jp
+E-mail: hideki_kakinuma [at] red.umds.ac.jp
   
 <h4 class="mb">経歴・業績</h4>
 http://researchmap.jp/hkakinuma
@@ -20,7 +20,7 @@ KAKINUMA Hideki
 Associate Professor  
 Faculty of Commerce  
 University of Marketing and Distribution Sciences  
-E-mail: Hideki_Kakinuma [at] red.umds.ac.jp
+E-mail: hideki_kakinuma [at] red.umds.ac.jp
 
 <h4 class="mb">CV [simplified version]</h4>
 https://researchmap.jp/hkakinuma/?lang=english  

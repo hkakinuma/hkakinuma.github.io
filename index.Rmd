@@ -32,7 +32,7 @@ pagetitle: "Profile | KAKINUMA Hideki"
 </tr>
 <tr>
 <td width="100" valign="top">連絡先</td>
-<td valign="top">Hideki_Kakinuma [at] red.umds.ac.jp</td>
+<td valign="top">hideki_kakinuma [at] red.umds.ac.jp</td>
 </tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@ B.Com. in Commerce, Meiji University, 2007.</td>
 </tr>
 <tr>
 <td width="140" valign="top">E-mail</td>
-<td valign="top">Hideki_Kakinuma [at] red.umds.ac.jp</td>
+<td valign="top">hideki_kakinuma [at] red.umds.ac.jp</td>
 </tr>
 </tbody>
 </table>
