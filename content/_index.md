@@ -22,7 +22,7 @@ sections:
     text: |
         作成中
         
-        その他の業績は、<a href="https://researchmap.jp/hkakinuma" target="_blank" rel="noopener noreferrer">Researchmap</a> をご覧ください。（別タブで開きます）
+        業績は、<a href="https://researchmap.jp/hkakinuma" target="_blank" rel="noopener noreferrer">Researchmap</a> をご覧ください。（別タブで開きます）
 
     title: 研究関連
   design:
