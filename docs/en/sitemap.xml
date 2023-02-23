@@ -16,8 +16,10 @@
                 href="https://hkakinuma.github.io/en/"
                 />
   </url><url>
+    <loc>https://hkakinuma.github.io/en/authors/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hkakinuma.github.io/en/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -30,66 +32,8 @@
                 href="https://hkakinuma.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://hkakinuma.github.io/en/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://hkakinuma.github.io/en/authors/admin/</loc>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/post/"
-                />
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/admin/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/admin/"
-                />
   </url><url>
     <loc>https://hkakinuma.github.io/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
@@ -102,6 +46,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hkakinuma.github.io/en/publication_types/"
+                />
+  </url><url>
+    <loc>https://hkakinuma.github.io/en/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hkakinuma.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hkakinuma.github.io/en/tags/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAKINUMA, Hideki | 柿沼 英樹 / KAKINUMA, Hideki</title>
+    <link>https://hkakinuma.github.io/en/authors/admin/</link>
+      <atom:link href="https://hkakinuma.github.io/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>KAKINUMA, Hideki</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://hkakinuma.github.io/en/authors/admin/avatar_hu457cb6b5c51f5047682d4d5b0ccd1acd_1609754_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>KAKINUMA, Hideki</title>
+      <link>https://hkakinuma.github.io/en/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
