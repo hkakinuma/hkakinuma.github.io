@@ -39,10 +39,10 @@
   {{ end }}
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
-  <span class="middot-divider"></span>
+<!--  <span class="middot-divider"></span>
   <span class="article-reading-time">
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}
-  </span>
+  </span> -->
   {{ end }}
 
   {{/* Show Disqus comment count if enabled. */}}

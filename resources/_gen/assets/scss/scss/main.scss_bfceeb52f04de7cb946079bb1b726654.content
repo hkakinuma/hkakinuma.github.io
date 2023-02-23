@@ -9219,7 +9219,7 @@ ul.network-icon {
   font-size: 2rem; }
 
 ul.ul-interests li {
-  font-size: 1.0rem; }
+  font-size: 0.9rem; }
 
 ul.ul-edu {
   list-style: none; }
@@ -9232,10 +9232,10 @@ ul.ul-edu li .description p {
   margin: 0; }
 
 ul.ul-edu li .description p.course {
-  font-size: 1.0rem; }
+  font-size: 0.9rem; }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6); }
 
 .avatar-wrapper {
@@ -9665,3 +9665,13 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+ul.ul-interests li {
+  font-size: 1.0rem; }
+
+ul.ul-interests li {
+  font-size: 1.0rem; }
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.85rem;
+  color: rgba(0, 0, 0, 0.6); }
