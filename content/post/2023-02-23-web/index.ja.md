@@ -3,18 +3,17 @@ title: Webサイトのリニューアル
 author: admin
 date: '2023-02-23'
 slug: 20230223_web
-categories: []
-tags: []
-subtitle: ''
-summary: null
-authors: []
-lastmod: ''
+categories: 一般
+tags: 
+subtitle: 
+summary: blogdown + Hugo Academicによる再構築を行いました。
+authors: 
+lastmod: 
 featured: no
 image:
-  caption: ''
-  focal_point: ''
+  caption: 
+  focal_point: 
   preview_only: no
-projects: []
 ---
 
 Rのblogdownパッケージと、Hugo Academicテンプレートを使用して、レスポンシブ仕様＋多言語対応にリニューアルしました。日本語版を中心とした運用で、英語版は基本的なインフォメーションのみを掲出する予定です。

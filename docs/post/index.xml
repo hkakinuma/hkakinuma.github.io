@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | 柿沼 英樹 / KAKINUMA, Hideki</title>
+    <title>雑記 | 柿沼 英樹 / KAKINUMA, Hideki</title>
     <link>https://hkakinuma.github.io/post/</link>
       <atom:link href="https://hkakinuma.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <description>雑記</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hkakinuma.github.io/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
+      <title>雑記</title>
       <link>https://hkakinuma.github.io/post/</link>
     </image>
     
@@ -20,6 +20,28 @@
       <description>&lt;p&gt;Rのblogdownパッケージと、Hugo Academicテンプレートを使用して、レスポンシブ仕様＋多言語対応にリニューアルしました。日本語版を中心とした運用で、英語版は基本的なインフォメーションのみを掲出する予定です。&lt;/p&gt;
 &lt;p&gt;基本的な表示や動作は問題なさそうということで公開に踏み切っていますが、しばらくはサイトの表示が崩れたりすることがあるかもしれません。年度内には、不具合の解消（や機能の拡充）の作業を終える予定です。&lt;/p&gt;
 &lt;p&gt;今後は、このサイトを使った情報発信にも取り組んでいきたいと考えています。更新頻度は高くないと思いますが、よろしくお付き合いください。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>書評掲載</title>
+      <link>https://hkakinuma.github.io/post/review/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://hkakinuma.github.io/post/review/</guid>
+      <description>&lt;p&gt;『立命館大学アジア・日本研究所年報』Vol.3に、守屋貴司教授（立命館大学経営学部）が2020年に晃洋書房から出版された『人材危機時代の日本の「グローバル人材」の育成とタレントマネジメント：「見捨てられる日本・日本企業」からの脱却の処方箋』の書評を寄稿しました。&lt;/p&gt;
+&lt;p&gt;ご興味のある方は、以下のリンクからご覧ください（別タブで開きます）。&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.34389/ritsumeikanasiajapan.3.0_140&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;J-STAGE論文ページ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>書評掲載</title>
+      <link>https://hkakinuma.github.io/post/review/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hkakinuma.github.io/post/review/</guid>
+      <description>&lt;p&gt;『日本労務学会誌』Vol.22, No.1 に、石山恒貴教授（法政大学大学院政策創造研究科）が2020年に中央経済社から出版された『日本企業のタレントマネジメント－適者開発日本型人事管理への変革－』の書評を寄稿しました。&lt;/p&gt;
+&lt;p&gt;ご興味のある方は、以下のリンクからご覧ください（別タブで開きます）。&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.24592/jshrm.22.1_100&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;J-STAGE論文ページ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Posts
+title: 雑記
 view: 2
 ---
