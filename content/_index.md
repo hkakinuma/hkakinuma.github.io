@@ -11,9 +11,10 @@ sections:
   - block: markdown
     content:
       text: |
-          作成中
+          修正作業中
           
-          業績は、<a href="https://researchmap.jp/hkakinuma" target="_blank" rel="noopener noreferrer">Researchmap</a> をご覧ください。（別タブで開きます）
+          すべての業績は、<a href="https://researchmap.jp/hkakinuma" target="_blank" rel="noopener noreferrer">Researchmap</a> にてご覧いただけます。\
+          （別タブで開きます）
       title: 研究関連
     design:
       columns: "2"

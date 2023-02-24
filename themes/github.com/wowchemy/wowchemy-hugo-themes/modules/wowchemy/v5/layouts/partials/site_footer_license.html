@@ -46,7 +46,9 @@
 
   {{ with $notice }}
   <p class="powered-by copyright-license-text">
-    {{ replace . "{year}" now.Year | markdownify }}
+    {{ replace . "{year}" now.Year | markdownify }} <br>
+    このWebサイトに掲載される内容は、個人的見解であり、運営者の所属機関とは無関係です。<br>
+    The opinions in this website are the author's own and do not reflect the view of the belonging organization.
   </p>
   {{ end }}
 
