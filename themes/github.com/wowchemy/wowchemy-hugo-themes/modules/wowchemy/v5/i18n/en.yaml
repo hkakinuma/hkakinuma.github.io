@@ -248,8 +248,11 @@
 - id: page_not_found
   translation: Page not found
 
-- id: 404_recommendations
-  translation: Perhaps you were looking for one of these?
+- id: 404_recommendations_01
+  translation: Please click the link below to move toppage
+  
+- id: 404_recommendations_02
+  translation: Toppage
 
 # Cookie consent
 

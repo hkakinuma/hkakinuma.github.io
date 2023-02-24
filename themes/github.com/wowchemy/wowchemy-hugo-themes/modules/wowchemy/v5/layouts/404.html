@@ -2,8 +2,9 @@
 
 <div class="universal-wrapper pt-3">
 
-  <h1>{{ i18n "page_not_found" }}</h1>
-
+<!--  <h1>{{ i18n "page_not_found" }}</h1> -->
+      <h1>ページが見つかりません / Page not found</h1>
+<!--
   {{/* Show search box if built-in search engine is enabled. */}}
   {{ if in (slice "wowchemy" "algolia") (lower site.Params.features.search.provider) }}
   <form class="d-flex align-items-center mb-3">
@@ -13,10 +14,19 @@
   <div id="docsearch" style="margin-left: -16px" class="mb-2"></div>
   {{ end }}
 
-  {{/* Suggest recently published pages to the user. */}}
+  {{/* Suggest recently published pages to the user. */}} -->
 
-  <p>{{ i18n "404_recommendations" }}</p>
+  <p style="margin-top:40px;">
+    【日本語】以下のリンクをクリックして、サイトのトップに戻ってください。<br>
+    <a href="/" >トップページ</a>
+  </p>
 
+  <p style="margin-top:40px;">
+    【English】Please click the link below to move to the top page.<br>
+    <a href="/en/" >Top page</a>
+  </p>
+
+<!--
   {{ $query := where (where (where (where site.Pages.ByDate.Reverse "Title" "!=" "") "Kind" "in" (slice "page" "section")) "Params.private" "!=" true) "Permalink" "!=" "" }}
   {{ $count := len $query }}
   {{ if gt $count 0 }}
@@ -27,6 +37,7 @@
     {{ end }}
   </ul>
   {{ end }}
+-->
 
 </div>
 

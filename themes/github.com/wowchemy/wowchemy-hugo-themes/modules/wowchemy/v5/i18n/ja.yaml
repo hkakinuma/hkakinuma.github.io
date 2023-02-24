@@ -248,8 +248,11 @@
 - id: page_not_found
   translation: ページが見つかりませんでした
 
-- id: 404_recommendations
-  translation: あなたが探しているものはこれらの中にあるかもしれません
+- id: 404_recommendations_01
+  translation: 以下のリンクをクリックして、サイトのトップに戻ってください。
+  
+- id: 404_recommendations_02
+  translation: トップページ
 
 # Cookie consent
 
