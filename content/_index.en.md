@@ -53,8 +53,8 @@ sections:
     #     captcha: false
     #   provider: netlify
     subtitle: null
-    text0: For inquiry, please do not hesitate to contact me by e-mail.
-    text1: When sending, convert [at] into @.
+    text0: You are welcome to contact me by e-mail for inquiry.
+    text1: When using e-mail address below, please convert [at] into @.
     title: Contact
   design:
     columns: "2"
