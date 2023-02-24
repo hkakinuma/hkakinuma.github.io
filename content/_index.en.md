@@ -10,6 +10,10 @@ sections:
   content:
     title: Research
     text: |
+        ## Projects in Progress
+        * Theoretical re-consideration of talent management
+        * Practices of talent management and its implications for Japanese companies
+        * Bibliometric analysis of employer branding
         ## Journal Paper (Peer-reviewed, by English)
         * Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. _International Journal of Business and Management_, _10_ (2), pp.31-40.
 

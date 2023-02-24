@@ -8155,13 +8155,13 @@ a.summary-link {
   top: 0; }
 
 .dropdown-menu {
-  background-color: #F4F4F7 !important;
+  background-color: #dddde6 !important;
   color: #34495e !important;
   z-index: 1032; }
 
 .navbar {
   height: 70px;
-  background: #F4F4F7;
+  background: #dddde6;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: 13.86px;
   padding: 0 1rem; }
@@ -8283,7 +8283,7 @@ a.summary-link {
     left: 0;
     top: 50px;
     width: 100%;
-    background-color: #F4F4F7;
+    background-color: #dddde6;
     text-align: center !important; }
   .dark .navbar-collapse {
     background-color: #282a36; }
@@ -8313,7 +8313,7 @@ ul.nav-icons li.nav-item a.nav-link {
   color: white !important; }
 
 .dropdown-item {
-  background-color: #F4F4F7 !important;
+  background-color: #dddde6 !important;
   color: #34495e !important; }
 
 .dark .dropdown-item {
@@ -9681,3 +9681,6 @@ ul.ul-edu li .description p.institution {
 
 .navbar .dropdown-menu {
   font-size: 16px; }
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: #2b2b2b; }
