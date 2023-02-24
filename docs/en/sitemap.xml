@@ -15,50 +15,5 @@
                 hreflang="en"
                 href="https://hkakinuma.github.io/en/"
                 />
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/authors/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/authors/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/publication_types/"
-                />
-  </url><url>
-    <loc>https://hkakinuma.github.io/en/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hkakinuma.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hkakinuma.github.io/en/tags/"
-                />
   </url>
 </urlset>
