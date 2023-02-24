@@ -14,13 +14,9 @@ sections:
         * Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. _International Journal of Business and Management_, _10_ (2), pp.31-40.
 
         ## Talks (by English)
-        * EIASM Workshop on Strategic Human Resource Management (2012)
-        * EIASM Workshop on Talent Management (2012, 2013)
-        * IFSAM (2015)
-        * Paris Colloquium on Human Resource Management in Asia (2015)
-        * Management Theory and Practice Conference (2016)
-        * APacCHRIE Conference (2018)
-        
+        * <u>Kakinuma, H.</u>, Yamamoto, A., & Wakabayashi, N. (2018). How can we get long-stay reservation from new employees? An exploratory analysis of employee retention in the lodging industry in Kyoto. Paper Presented at the 16th APacCHRIE Conference. [Sun Yat-Sen University, Guanzhou, China]
+        * Kakinuma, H. (2016). The divergence in Chinese graduates' decision criteria for job choice: An experiemental-designed investigation. Paper Presented at Management Theory and Practice Conference. [Kyoto University, Kyoto, Japan]
+
         Detailed CV (incl. Japanese papers and talks) is available upon request.
   design:
     columns: '2'
@@ -37,7 +33,6 @@ sections:
 
         ## Master class
         * Leadership
-        * Technology Transfer from HRM Viewpoint
     title: Teaching Experiences
   design:
     columns: "2"

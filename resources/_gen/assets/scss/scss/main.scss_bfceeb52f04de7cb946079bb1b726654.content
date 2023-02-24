@@ -8155,13 +8155,13 @@ a.summary-link {
   top: 0; }
 
 .dropdown-menu {
-  background-color: #fff !important;
+  background-color: #F4F4F7 !important;
   color: #34495e !important;
   z-index: 1032; }
 
 .navbar {
   height: 70px;
-  background: #fff;
+  background: #F4F4F7;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: 13.86px;
   padding: 0 1rem; }
@@ -8283,7 +8283,7 @@ a.summary-link {
     left: 0;
     top: 50px;
     width: 100%;
-    background-color: #fff;
+    background-color: #F4F4F7;
     text-align: center !important; }
   .dark .navbar-collapse {
     background-color: #282a36; }
@@ -8313,7 +8313,7 @@ ul.nav-icons li.nav-item a.nav-link {
   color: white !important; }
 
 .dropdown-item {
-  background-color: #fff !important;
+  background-color: #F4F4F7 !important;
   color: #34495e !important; }
 
 .dark .dropdown-item {
@@ -9675,3 +9675,6 @@ ul.ul-edu li .description p.course {
 ul.ul-edu li .description p.institution {
   font-size: 0.9rem;
   color: rgba(0, 0, 0, 0.6); }
+
+.navbar {
+  font-size: 16px; }
