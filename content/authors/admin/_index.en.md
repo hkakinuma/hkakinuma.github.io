@@ -1,14 +1,14 @@
 ---
-bio: Assoc.Prof. of HRM, University of Marketing and Distribution Sciences, Japan.
+bio: Assoc.Prof. of Human Resource Management, University of Marketing and Distribution Sciences, Japan.
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: Kyoto University
     year: 2019
-  - course: MA in Arts
+  - course: M.A. in Social Informatics
     institution: Aoyama Gakuin University
     year: 2011
-  - course: BCom
+  - course: B.Com
     institution: Meiji University
     year: 2007
 email: ""

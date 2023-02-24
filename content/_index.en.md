@@ -16,6 +16,7 @@ sections:
         ## Talks (by English)
         * <u>Kakinuma, H.</u>, Yamamoto, A., & Wakabayashi, N. (2018). How can we get long-stay reservation from new employees? An exploratory analysis of employee retention in the lodging industry in Kyoto. Paper Presented at the 16th APacCHRIE Conference. [Sun Yat-Sen University, Guanzhou, China]
         * Kakinuma, H. (2016). The divergence in Chinese graduates' decision criteria for job choice: An experiemental-designed investigation. Paper Presented at Management Theory and Practice Conference. [Kyoto University, Kyoto, Japan]
+        * and more...
 
         Detailed CV (incl. Japanese papers and talks) is available upon request.
   design:
@@ -29,7 +30,7 @@ sections:
         * Business Administration
         * Introduction to Management
         * Career Management
-        * Personal Finance and Life Planning
+        * Life Planning and Personal Finance
 
         ## Master class
         * Leadership
@@ -49,6 +50,7 @@ sections:
     #   provider: netlify
     subtitle: null
     text0: For inquiry, please do not hesitate to contact me by e-mail.
+    text1: When sending, convert [at] into @.
     title: Contact
   design:
     columns: "2"
