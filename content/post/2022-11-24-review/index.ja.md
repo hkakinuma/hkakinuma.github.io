@@ -2,7 +2,7 @@
 title: 書評掲載
 author: admin
 date: '2022-11-24'
-slug: review
+slug: 20221124_review
 categories:
   - 研究
 tags: 
