@@ -60,6 +60,7 @@
 {{end}}
 
 <div class="article-container pt-3">
+{{ partial "breadcrumb" . }}
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
@@ -86,6 +87,7 @@
     {{ $ctnr = "universal-wrapper" }}
   {{end}}
 <div class="{{$ctnr}} pt-3">
+{{ partial "breadcrumb" . }}
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
