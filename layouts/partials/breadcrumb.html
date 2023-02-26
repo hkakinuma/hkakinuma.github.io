@@ -5,6 +5,7 @@
     {{- template "breadcrumb" (dict "node" .node.Site.Home "start" .start) }}
   {{- end }}
 
+
   {{- if eq .node .start }}
     <li class="breadcrumb-item active">{{ .node.Title }}</li>
   {{- else }}
@@ -14,6 +15,6 @@
 
 <nav>
   <ul class="breadcrumb">
-    <a href="/">Top</a>{{- template "breadcrumb" (dict "node" . "start" .) }}
+    <a href="/">トップ</a>{{- template "breadcrumb" (dict "node" . "start" .) }}
   </ul>
 </nav>

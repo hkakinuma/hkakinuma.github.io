@@ -7,6 +7,9 @@ theme: "starter-hugo-academic"
 title: 柿沼 英樹 / KAKINUMA, Hideki # Website name
 baseURL: 'https://hkakinuma.github.io' # Website URL
 
+font: "Native"
+publishdir: "docs"
+
 ############################
 ## LANGUAGE
 ############################
@@ -64,9 +67,9 @@ related:
   includeNewer: true
   toLower: true
   indices:
-    - name: tags
+    - name: タグ
       weight: 100
-    - name: categories
+    - name: カテゴリ
       weight: 70
 security:
   _merge: deep
