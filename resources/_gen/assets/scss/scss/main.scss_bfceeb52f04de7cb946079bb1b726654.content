@@ -9666,33 +9666,47 @@ div.chart {
   margin-bottom: 1rem;
   overflow-x: auto; }
 
+/* 興味・関心の文字の大きさ */
 ul.ul-interests li {
   font-size: 1.0rem; }
 
+/* 学位の文字の大きさ */
 ul.ul-edu li .description p.course {
   font-size: 1.0rem; }
 
+/* 学位機関の文字の大きさ */
 ul.ul-edu li .description p.institution {
   font-size: 0.9rem;
   color: rgba(0, 0, 0, 0.6); }
 
+/* ナビゲーションメニューの文字の大きさ */
 .navbar {
   font-size: 16px; }
 
+/* ナビゲーション->ドロップダウンメニューの文字の大きさ */
 .navbar .dropdown-menu {
   font-size: 16px; }
 
+/* サイト名の文字の色（ホバー時） */
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
   color: #2b2b2b; }
 
+/* 雑記->ページ末の著者カードのタイトル下余白 */
 .author-card .card-title {
   margin-bottom: 5px; }
 
+/* 雑記ページのタイトル上余白 */
 .content-widget-hr {
   margin-top: 5rem; }
 
+/* 雑記ページの最終行のあとの余白 */
 article .article-metadata {
   margin-bottom: 35px; }
 
+/* 著者カードの文字の大きさ */
 .card-simple .article-style, .media.stream-item .article-style {
   font-size: 0.9rem; }
+
+/* 雑記の横幅  */
+.article-container {
+  max-width: 1000px; }
