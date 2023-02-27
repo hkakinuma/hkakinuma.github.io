@@ -3,5 +3,5 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: カテゴリ一覧
+title: 雑記：カテゴリ一覧
 ---
