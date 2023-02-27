@@ -4,10 +4,6 @@ serve_site()
 stop_site()
 build_site()
 
-## アップロード前にすること
-## publicフォルダをコピーしてdocsフォルダを作る
-## github pagesがdocsを読み込むため
-
 ## gitコマンド（Terminal）
 git add .
 git commit -m "コメント"
