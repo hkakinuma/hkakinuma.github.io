@@ -9710,3 +9710,7 @@ article .article-metadata {
 /* 雑記の横幅  */
 .article-container {
   max-width: 1000px; }
+
+/* フッター下の余白 */
+footer {
+  margin: 3rem 0; }
