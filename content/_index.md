@@ -28,15 +28,17 @@ sections:
     content:
       text: |
           ## 2023年度の担当科目
-          ### 【流通科学大学商学部】
+          ### 流通科学大学商学部
           * 経営管理論A（前期・後期）
           * 経営管理論B（後期）
           * 人的資源管理論（後期）
           * 経営学入門（後期）
           * その他初年次科目、演習科目
           
-          ### 【京都大学経営管理大学院】
+          ### 京都大学経営管理大学院
           * リーダーシップ論（後期）
+          
+          科目の詳細は、各大学のシラバスまたはLMSをご確認ください。
       title: 教育活動
     design:
       columns: "2"
@@ -46,7 +48,7 @@ sections:
     content:
       title: 雑記
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         folders:
