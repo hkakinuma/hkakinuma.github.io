@@ -69,6 +69,9 @@ sections:
     content:
       autolink: false
       email: hideki_kakinuma [at] red.umds.ac.jp
+      address: 
+        street: 〒651-2188
+        region: 兵庫県神戸市西区学園西町3-1 流通科学大学商学部
       # form:
       #    formspree:
       #      id: null
@@ -76,7 +79,7 @@ sections:
       #      captcha: false
       #    provider: netlify
       subtitle: null
-      text0: 各種お問合せは、メールにて承っています。お気軽にご連絡ください。
+      text0: お問合せは、メールまたは郵便にて承っています。お気軽にご連絡ください。
       text1: メールアドレス内の [at] はアットマークに書き換えてください。
       title: お問合せ
     design:
