@@ -122,3 +122,13 @@ $(window).resize(function () {
 window.addEventListener('hashchange', scrollToAnchor);
 
 export {fixScrollspy, scrollToAnchor};
+
+/* ---------------------------------------------------------------------------
+ * "back-to-top"ボタンに smooth scrolling を実装
+ * --------------------------------------------------------------------------- */
+$('.back-to-top').click(function(event){
+  event.preventDefault();
+  
+  $('html, body').animate({'scrollTop':0},1000,function(){window.location.hash="";});
+  
+});

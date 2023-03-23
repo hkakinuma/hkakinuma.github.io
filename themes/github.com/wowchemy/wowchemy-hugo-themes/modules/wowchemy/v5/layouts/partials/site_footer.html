@@ -26,7 +26,7 @@
       {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
     {{ end }} -->
     
-    Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>
+    Published with <a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a>, <a href="https://gohugo.io/" target="_blank" rel="noopener">hugo</a> and <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>
 
     
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
