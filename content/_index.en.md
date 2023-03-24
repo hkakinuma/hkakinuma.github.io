@@ -21,6 +21,11 @@ sections:
         * <u>Kakinuma, H.</u>, Yamamoto, A., & Wakabayashi, N. (2018). How can we get long-stay reservation from new employees? An exploratory analysis of employee retention in the lodging industry in Kyoto. Paper Presented at the 16th APacCHRIE Conference. [Sun Yat-Sen University, Guanzhou, China]
         * Kakinuma, H. (2016). The divergence in Chinese graduates' decision criteria for job choice: An experiemental-designed investigation. Paper Presented at Management Theory and Practice Conference. [Kyoto University, Kyoto, Japan]
         * and more...
+        
+        ## Professional Membership
+        * Japan Society of Human Resource Management（日本労務学会）
+        * The Academic Association for Organizational Science（組織学会）
+        * The Japanese Association of Administrative Science（経営行動科学学会）
 
         Detailed CV (incl. Japanese papers and talks) is available upon request.
   design:
