@@ -9714,3 +9714,93 @@ article .article-metadata {
 /* フッター下の余白 */
 footer {
   margin: 3rem 0; }
+
+/* pagenation */
+#paging {
+  margin: auto;
+  text-align: center; }
+
+#paging ul {
+  padding: 0; }
+
+#paging i {
+  font-weight: bold; }
+
+#paging .not-allow i {
+  font-weight: normal;
+  opacity: 0.3; }
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  list-style: none;
+  border-radius: .25rem; }
+
+.pagination li {
+  flex: 1 1 42px;
+  max-width: 42px;
+  min-width: 27px;
+  float: left; }
+
+.pagination > li > a {
+  display: inline-block;
+  width: 100%;
+  padding: 6px 0;
+  color: inherit;
+  background: #fff;
+  /*border: 1px solid #ddd;*/
+  border-right: 0;
+  text-align: center; }
+
+.pagination > li:last-child > a,
+.pagination > .not-allow:first-child > a:hover {
+  /*border-right: 1px solid #ddd;*/ }
+
+.pagination > .active > a,
+.pagination > li > a:hover {
+  color: #000;
+  background: #dddde6; }
+
+.pagination > .active > a:hover,
+.pagination > .not-allow > a:hover {
+  cursor: text; }
+
+.post #paging {
+  margin: 20px 0 40px 0; }
+
+.page-item {
+  margin-left: 5px;
+  margin-right: 5px; }
+
+/* 問合せフォーム関係 */
+form dl dt {
+  width: 200px;
+  float: left;
+  clear: both;
+  margin-right: 30px; }
+
+form .formbtn {
+  text-aligh: center; }
+
+form .btns {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px;
+  padding: 6px 25px;
+  color: #2b2b2b;
+  font-weight: bold;
+  letter-spacing: 0.5pt;
+  text-decoration: none;
+  background-color: #ffffff;
+  border: 1px solid #2b2b2b;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -ms-transition-duration: 0.3s; }
+
+form .btns:hover {
+  color: #000;
+  background-color: #dddde6; }

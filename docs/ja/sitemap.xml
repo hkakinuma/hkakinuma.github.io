@@ -42,6 +42,14 @@
                 href="https://hkakinuma.github.io/"
                 />
   </url><url>
+    <loc>https://hkakinuma.github.io/thanks/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hkakinuma.github.io/post/20230119_seminar/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hkakinuma.github.io/post/20221124_review/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,8 +62,16 @@
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hkakinuma.github.io/post/20220910_review/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <loc>https://hkakinuma.github.io/post/20220930_article/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hkakinuma.github.io/post/20220618_seminar/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hkakinuma.github.io/post/20210601_review/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hkakinuma.github.io/admin/</loc>
