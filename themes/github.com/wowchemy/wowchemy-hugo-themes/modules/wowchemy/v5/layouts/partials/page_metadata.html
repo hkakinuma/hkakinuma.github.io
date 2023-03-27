@@ -20,9 +20,9 @@
       {{ $date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          投稿日 {{ $page.Date | time.Format site.Params.locale.date_format}}　/　{{ i18n "last_updated" }} {{ $page.Lastmod | time.Format site.Params.locale.date_format }}
+          <i class="fas fa-pen-fancy"></i> {{ $page.Date | time.Format site.Params.locale.date_format}}　<i class="fas fa-sync-alt"></i> {{ $page.Lastmod | time.Format site.Params.locale.date_format }}
       {{ else}}
-          投稿日 {{ $page.Date | time.Format site.Params.locale.date_format}}
+          <i class="fas fa-pen-fancy"></i> {{ $page.Date | time.Format site.Params.locale.date_format}}
       {{ end }}
     {{ end }}
   </span>
