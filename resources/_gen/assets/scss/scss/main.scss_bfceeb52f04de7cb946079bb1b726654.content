@@ -7681,7 +7681,7 @@ article .article-metadata {
   font-size: 15px; }
 
 .middot-divider::after {
-  content: '\00B7'; }
+  content: ''; }
 
 caption {
   text-align: center; }
