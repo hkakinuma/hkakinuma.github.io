@@ -2,7 +2,7 @@
 title: お問合せ送信完了
 type: post
 date: 2023-04-01
-draft: false
+draft: true
 show_date: false
 ---
 お問合せありがとうございました。ご入力いただいた内容をメールにて自動送信しておりますので、必要に応じてご確認ください。
