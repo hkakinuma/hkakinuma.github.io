@@ -67,6 +67,7 @@
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
 
+
   {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
   {{ partial "page_links_div.html" $page }}
 </div>
@@ -93,6 +94,18 @@
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
+
+  {{ if ne $page.Type "post" }}
+    <div class="article-metadata">
+    {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
+    {{ if ne $page.Params.Lastmod $page.Params.Date }}
+          <i class="fas fa-pen-fancy"></i> {{ $page.Date | time.Format site.Params.locale.date_format}}　<i class="fas fa-sync-alt"></i> {{ $page.Lastmod | time.Format site.Params.locale.date_format }}
+    {{ else}}
+          <i class="fas fa-pen-fancy"></i> {{ $page.Date | time.Format site.Params.locale.date_format}}
+    {{ end }}
+    </div>
+    {{ end }}
+
 
   {{ if not .IsNode }}
     {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}

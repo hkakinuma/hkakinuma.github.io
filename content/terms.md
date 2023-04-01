@@ -1,15 +1,11 @@
 ---
 title: 著作権・免責事項
-date: '2018-06-28T00:00:00+01:00'
-draft: true
+date: '2023-04-01T00:00:00+01:00'
+type: post
+draft: false
 share: false
 commentable: false
 editable: false
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
 ---
 
 ### 1. 著作権

@@ -1,7 +1,8 @@
 ---
 title: プライバシーポリシー
-date: '2023-03-27T00:00:00+09:00'
-draft: true
+type: post
+date: '2023-04-01T00:00:00+09:00'
+draft: false
 share: false
 commentable: false
 editable: false
@@ -20,15 +21,13 @@ editable: false
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を使用しています。Googleアナリティクスは、データ収集のためにCookieを使用しています。このデータは匿名で収集されており、個人を特定するものではありません。\
 この機能は、Cookieを無効にすることで収集を拒否することができます。お使いのブラウザの設定をご確認ください。
 
-Google社のデータ収集・処理の仕組みについては、<a rel="noopener" href="http://www.google.com/intl/ja/policies/privacy/partners/" target="_blank">こちら</a>をご覧ください。
+Google社のデータ収集・処理の仕組みについては、以下のサイトをご覧ください（別タブで開きます）。\
+<a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="noopener noreferrer">Googleのサービスを使用するサイトやアプリから収集した情報のGoogleによる使用－ポリシーと規約－</a>
 
 ### 3. プライバシーポリシーの変更について
 当サイトは、本プライバシーポリシーの内容を適宜見直し、その改善に努めます。事前の予告なく変更することがありますが、変更が当サイトに掲載された時点で有効になるものとします。
 
 ### お問合せ
-当サイト記載の<a href="/#contact">問合せ先</a>までご連絡ください。
-
-柿沼 英樹\
-制定 2023年3月27日
-
+当サイト記載の問合せ先までご連絡ください（同タブで画面遷移します）。\
+<a href="/#contact" rel="noopener noreferrer">「お問合せ」</a>
 

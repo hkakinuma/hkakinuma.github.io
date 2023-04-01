@@ -167,40 +167,4 @@
   <div id="map"></div>
   {{ end }}
   
-  <hr>
-  こちらのフォームからもお問合せいただけます。
-  <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScL2sxhWKsA1WN13Oy1IEQhjZS2MD9fogFaU1RjnriwmWHxaA/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;" style="margin:1rem 0;">
-    <dl>
-      <dt>お名前（必須）</dt>
-      <dd><input type="text" placeholder="お名前（必須）" name="entry.1721012025" required style="width:70%; padding: 0.3rem; margin: auto;"></dd>
-    </dl>
-    <dl>
-      <dt>ご所属</dt>
-      <dd><input type="text" placeholder="ご所属" name="entry.1101152244" style="width:70%; padding: 0.3rem; margin: auto;"></dd>
-    </dl>
-    <dl>
-      <dt>メールアドレス（必須）</dt>
-      <dd><input type="email" placeholder="メールアドレス（必須）" name="entry.1732391298" required style="width:70%; padding: 0.3rem; margin: auto;"></dd>
-    </dl>
-    <dl>
-      <dt>お問合せ内容（必須）</dt>
-      <dd><textarea placeholder="お問合せ内容（必須）" name="entry.1842529807" required style="width:70%; padding: 0.3rem; margin: auto; min-height:10rem;"></textarea></dd>
-    </dl>
-    <p class="formbtn">
-      <input type="submit" value="送信" class="btns" style="width:35%; margin: auto;">
-      <input type="reset" value="リセット" class="btns" style="width:35%; margin: auto;">
-    </p>
-  </form>
-  <script>
-    let submitted = false;
-
-    const page_transition = function () {
-        if(submitted){
-            window.location = '/thanks';
-        }
-    }
-  </script>    
-  <iframe name="hidden_iframe" style="display:none;" onload="page_transition()"></iframe>
-
-
 </div>

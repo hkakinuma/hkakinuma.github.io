@@ -51,7 +51,7 @@ sections:
       columns: "2"
     id: teaching
   - block: collection
-    id: posts
+    id: post
     content:
       title: 雑記
       # Choose how many pages you would like to display (0 = all pages)
@@ -79,12 +79,6 @@ sections:
       address: 
         street: 〒651-2188
         region: 兵庫県神戸市西区学園西町3-1 流通科学大学商学部
-      # form:
-      #    formspree:
-      #      id: null
-      #    netlify:
-      #      captcha: false
-      #    provider: netlify
       subtitle: null
       text0: お問合せは、メールまたは郵便にて承っています。お気軽にご連絡ください。
       text1: メールアドレス内の [at] はアットマークに書き換えてください。
