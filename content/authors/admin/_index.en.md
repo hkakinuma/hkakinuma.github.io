@@ -31,5 +31,5 @@ KAKINUMA, Hideki is an Associate Professor of Human Resource Management, Faculty
 
 His research field encompasses human resource management and organizational behavior. He is now focusing on talent management and employer branding. Additionally, he is interested in working on bibliometric analysis of management research.
 
-He has working experiences in both industrial and academic worlds. In the industrial world, he worked in an HR-related services firm for 2 years. In the academic world, he worked as a Part-time Lecturer at Kyoto University, and as a Visiting Scholar at Vietnam National University, Hanoi.
+He has working experiences in both industrial and academic worlds. In the industrial world, he worked in an HR-related services firm for 2 years. In the academic world, he enrolled several positions such as a Part-time Lecturer at Kyoto University, as a Visiting Scholar at Vietnam National University, Hanoi.
 {style="text-align: justify;"}

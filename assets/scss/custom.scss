@@ -39,9 +39,15 @@ article .article-metadata {
 .card-simple .article-style, .media.stream-item .article-style {
   font-size: 0.9rem;
 }
-/* 雑記の横幅  */
+
+/* post記事の横幅  */
 .article-container {
   max-width: 1000px;
+}
+
+/* liでのリストの記述間余白 */
+li {
+    margin-top: 0.25rem;
 }
 
 /* フッター下の余白 */
@@ -143,4 +149,25 @@ form .btns{
 form .btns:hover{
     color: #000;
     background-color: #dddde6;
+}
+
+.dark textarea {
+    color: #f8f8f2;
+    background: #23252f;
+}
+
+/* ページ右側TOCリスト  */ 
+.docs-toc {
+    align-self: start;
+}
+
+/* 研究・教育ページの見出し */
+.article-style h2 {
+    margin-top: 4rem;
+    font-weight: 700;
+}
+
+.article-style h3 {
+    margin-top: 2.5rem;
+    font-weight: 400;
 }

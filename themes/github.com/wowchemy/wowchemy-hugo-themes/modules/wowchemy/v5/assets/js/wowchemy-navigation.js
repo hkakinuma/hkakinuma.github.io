@@ -132,3 +132,15 @@ $('.back-to-top').click(function(event){
   $('html, body').animate({'scrollTop':0},1000,function(){window.location.hash="";});
   
 });
+
+/* ---------------------------------------------------------------------------
+ * smooth scrolling を実装
+ * --------------------------------------------------------------------------- */
+$(function() {
+    $('a[href ^= "#"]').on('click', function() {
+        $('html, body').animate({
+            scrollTop: $($(this).attr('href')).offset().top - 100
+        }, 600);
+        return false;
+    })
+});

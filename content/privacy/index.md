@@ -6,6 +6,7 @@ draft: false
 share: false
 commentable: false
 editable: false
+header.on_scroll: fixed
 ---
 
 当サイトのプライバシーポリシーを以下のように定めます。

@@ -15,7 +15,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: 
+projects:
+header.on_scroll: fixed
 ---
 
 所属機関である流通科学大学の研究紀要に、論文（査読なし）が掲載されました。

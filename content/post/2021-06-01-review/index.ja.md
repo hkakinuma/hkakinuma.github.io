@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: 
+header.on_scroll: fixed
 ---
 
 『日本労務学会誌』Vol.22, No.1 に、石山恒貴教授（法政大学大学院政策創造研究科）が2020年に中央経済社から出版された『日本企業のタレントマネジメント－適者開発日本型人事管理への変革－』の書評を寄稿しました。

@@ -64,6 +64,16 @@ sections:
   design:
     columns: "2"
   id: contact
+- block: markdown
+  content:
+    text: |
+      * The opinions in this website are the author's own and do not reflect the view of the belonging organization.
+      * This website uses Google Analytics, a web analysis service from Google Inc. Google Analytics uses "cookies" that enable to analyse how you use the website. Cookies are collected anonymously and do not identify any individual users. You can disable cookies by your browser's settings. 
+      * The copyrights and portrait rights of the contents on this website belong to the author of this website or to the respective rights holders. Unauthorized duplication, alteration, or distribution beyond the scope of the law, including personal use, is strictly prohibited.
+    title: Notice
+  design:
+    columns: 2
+  id: notice
 title: null
 type: landing
 ---

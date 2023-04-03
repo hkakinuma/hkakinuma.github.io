@@ -1,4 +1,4 @@
-{{/* Wowchemy Blocks: Contact */}}
+{{/* Wowchemy Blocks: contact.ja */}}
 {{/* Documentation: https://wowchemy.com/blocks/ */}}
 {{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
 
@@ -12,7 +12,7 @@
 
 {{ $use_netlify_form := eq $form_provider "netlify" }}
 {{ $use_formspree_form := eq $form_provider "formspree" }}
-{{ $use_form := or $use_netlify_form $use_formspree_form }}
+{{ $use_form := or $use_netlify_form $use_formspree_form}}
 
 {{ $use_netlify_captcha := $block.content.form.netlify.captcha | default true }}
 {{ $use_formspree_captcha := $block.content.form.formspree.captcha | default false }}
@@ -167,6 +167,7 @@
   <div id="map"></div>
   {{ end }}
   
+
   <hr>
   こちらのフォームからもお問合せいただけます。<br>
   ※システム障害等により利用できない場合があることをご容赦ください。

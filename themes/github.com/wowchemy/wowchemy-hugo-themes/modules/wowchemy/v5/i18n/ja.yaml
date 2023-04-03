@@ -273,5 +273,8 @@
 - id: published_with
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 
-- id: notice
-  translation: このWebサイトに掲載される内容は、運営者の個人的見解であり、所属機関とは無関係です。
+- id: notice_1
+  translation: " "
+
+- id: notice_2
+  translation: " "

@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+header.on_scroll: fixed
 ---
 
 大阪経済大学 経営・ビジネス法情報センターが定例開催する研究会にお声がけいただき、「人事管理の流行と戦略性」と題した報告を行いました。

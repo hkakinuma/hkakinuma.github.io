@@ -57,8 +57,7 @@
 
   {{ with $notice }}
   <p class="powered-by copyright-license-text">
-    {{ replace . "{year}" now.Year | markdownify }} <br>
-<!--    {{ i18n "notice"}} -->
+    {{ replace . "{year}" now.Year | markdownify }} 
   </p>
   {{ end }}
 

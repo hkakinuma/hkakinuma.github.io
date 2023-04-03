@@ -270,7 +270,10 @@
 - id: published_with
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 
-- id: notice
+- id: notice_1
+  translation: This website uses cookies to ensure you get the best experience on our website.
+  
+- id: notice_2
   translation: The opinions in this website are the author's own and do not reflect the view of the belonging organization.
 
 # Feedback widget

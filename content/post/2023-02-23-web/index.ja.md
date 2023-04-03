@@ -14,6 +14,7 @@ image:
   caption: 
   focal_point: 
   preview_only: no
+header.on_scroll: fixed
 ---
 
 Rのblogdownパッケージと、Hugo Academicテンプレートを使用して、レスポンシブ仕様＋多言語対応にリニューアルしました。日本語版を中心とした運用で、英語版は基本的なインフォメーションのみを掲出する予定です。

@@ -15,6 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+header.on_scroll: fixed
 ---
 
 このたび、京都大学経営管理大学院より「2021年度優秀教育賞」を受賞いたしました。受賞自体は少し前に決まっていたようなのですが、最近ようやく表彰状をいただくことができました。
