@@ -9824,3 +9824,14 @@ form .btns:hover {
 .article-style h3 {
   margin-top: 2.5rem;
   font-weight: 400; }
+
+/* モバイル版研究・教育ページの表示崩れ対応 */
+@media screen and (max-width: 768px) {
+  .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow-x: hidden; } }
+
+/* 均等割り付け */
+p {
+  text-align: justify; }
