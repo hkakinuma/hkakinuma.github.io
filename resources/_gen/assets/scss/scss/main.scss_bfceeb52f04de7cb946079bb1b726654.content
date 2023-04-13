@@ -9299,11 +9299,11 @@ ul.ul-edu li .description p.institution {
 
 .wg-contact .fa-li {
   position: absolute;
-  left: -3.14285714rem;
+  left: -2.5rem;
   /* Negative of `.wg-contact .fa-ul` margin. */
   width: 2rem;
   /* Match `fa-2x` icon size. */
-  top: 0.14285714em;
+  top: 0em;
   /* Default FA value. */
   text-align: center; }
 
