@@ -5,12 +5,25 @@
     <link>https://hkakinuma.github.io/post/</link>
       <atom:link href="https://hkakinuma.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>雑記</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hkakinuma.github.io/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png</url>
       <title>雑記</title>
       <link>https://hkakinuma.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>日本労務学会での研究発表</title>
+      <link>https://hkakinuma.github.io/post/20230618_jshrm/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://hkakinuma.github.io/post/20230618_jshrm/</guid>
+      <description>&lt;p&gt;近畿大学東大阪キャンパスにて開催された日本労務学会第53回全国大会にて、「タレントマネジメントと日本型人事管理の関係性をめぐる試論：従業員視点からの検討」と題した研究発表を行いました。なお、この研究はJSPS科研費19K01819および20K13607の助成を受けたものです。&lt;/p&gt;
+&lt;p&gt;この研究発表では、欧米圏を中心に論じられる戦略的タレントマネジメント (STM) と日本型人事管理のふたつを、経営陣や人事部が持つ管理思想（哲学）のレベルで区別したときに、運用される施策がどの程度異なっているのかについて定量的な検討を行いました。その際に、管理思想や施策に関する従業員の知覚を用いることで、働く人びとがどのように企業側が展開する人事管理を受け止めているのかを捉えようと試みました。&lt;/p&gt;
+&lt;p&gt;分析の結果、自社の管理思想をSTMとして知覚する人びとと日本型人事管理として知覚する人びととのあいだで、施策に対する知覚には有意な差が認められませんでした。この調査では、施策の知覚を測定する尺度に、Jayaramanらが提唱する統合的TM尺度 (integrated TM scale) を採用しています。そのため、今回の結果は、STMとして知覚する人びとと日本型人事管理として知覚する人びとが、同じ程度にTM施策が実践されていると認識していると表現することができます。&lt;/p&gt;
+&lt;p&gt;この結果をどう解釈すべきかという点については、いくつかの可能性が想起されます。たとえば、(1) 旧来的な管理思想のまま、施策だけをTMに変革する企業がみられる、(2) 管理思想をTMに変革したが、施策面では旧来のものを引きずっている、(3) STMとして実践される施策は、実は日本型人事管理のそれと類似している、といったパターンがあり得るのではないでしょうか。&lt;/p&gt;
+&lt;p&gt;今回の報告内容については、概念の操作化や分析手法にいくつかの課題を抱えている点が否めない萌芽的なものであるという点を割り引いて評価を行う必要があります。とはいえども、「欧米から来たTMは、日本の旧来からの仕組みより優れたもの」という感覚的な理解が正しいか否かという点に問題提起しうる結果であることから、さらなる展開を考えても良いのではないかという気持ちが芽生えています。今後は、理論研究での深掘りを進めつつ、人事部門や従業員への定量的な調査を行い、もう少し議論を重ねていきたいと考えています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>書評掲載</title>
