@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hkakinuma.github.io/category/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hkakinuma.github.io/post/20230920_article/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <loc>https://hkakinuma.github.io/post/20231027_article/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hkakinuma.github.io/post/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hkakinuma.github.io/categories/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -27,6 +27,10 @@
                 hreflang="ja"
                 href="https://hkakinuma.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://hkakinuma.github.io/post/20230920_article/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hkakinuma.github.io/post/20230618_jshrm/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
