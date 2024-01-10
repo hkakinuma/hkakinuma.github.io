@@ -1,0 +1,219 @@
+/* 興味・関心の文字の大きさ */
+ul.ul-interests li {
+  font-size: 1.0rem; 
+}
+
+/* 学位の文字の大きさ */
+ul.ul-edu li .description p.course {
+  font-size: 1.0rem; 
+}
+
+/* 学位機関の文字の大きさ */
+ul.ul-edu li .description p.institution {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* ナビゲーションメニューの文字の大きさ */
+.navbar {
+    font-size: 16px;
+    background: #dddde6;
+}
+
+/* ナビゲーション->ドロップダウンメニューの文字の大きさ */
+.navbar .dropdown-menu {
+    font-size: 16px;
+}
+
+/* メニューの挙動補正 */
+.home-section {
+    margin-top: -0.1rem;
+}
+
+/* サイト名の文字の色（ホバー時） */
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: #2b2b2b;
+}
+
+/* 雑記->ページ末の著者カードのタイトル下余白 */
+.author-card .card-title {
+  margin-bottom: 5px;
+}
+
+/* 雑記ページでの画像Flexbox */
+@media only screen and (min-width: 1001px) {
+    .picflex {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .flexpict {
+        width:calc(43%) !important;
+    }
+}
+
+.flexpict {
+    width:calc(60%);
+    margin:0.3rem;    
+}
+
+/* 雑記ページのタイトル上余白 */
+.content-widget-hr {
+  margin-top: 5rem;
+}
+
+/* 雑記ページの最終行のあとの余白 */
+article .article-metadata {
+  margin-bottom: 35px;
+}
+
+/* 著者カードの文字の大きさ */
+.card-simple .article-style, .media.stream-item .article-style {
+  font-size: 0.9rem;
+}
+
+/* post記事の横幅  */
+.article-container {
+  max-width: 1000px;
+}
+
+/* liでのリストの記述間余白 */
+li {
+    margin-top: 0.25rem;
+}
+
+/* フッター下の余白 */
+footer {
+  margin: 3rem 0;
+}
+
+/* pagenation */
+#paging {
+    margin: auto;
+    text-align: center;
+  }
+  #paging ul {
+    padding: 0;
+  }
+  #paging i {
+    font-weight: bold;
+  }
+  #paging .not-allow i {
+    font-weight: normal;
+    opacity: 0.3;
+  }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    list-style: none;
+    border-radius: .25rem;
+  }
+  .pagination li {
+    flex: 1 1 42px;
+    max-width: 42px;
+    min-width: 27px;
+    float: left;
+  }
+  
+  .pagination > li > a {
+    display: inline-block;
+    width: 100%;
+    padding: 6px 0;
+    color: inherit;
+    background: #fff;
+    /*border: 1px solid #ddd;*/
+    border-right: 0;
+    text-align: center;
+  }
+  .pagination > li:last-child > a,
+  .pagination > .not-allow:first-child > a:hover {
+    /*border-right: 1px solid #ddd;*/
+  }
+  .pagination > .active > a,
+  .pagination > li > a:hover {
+    background: #dddde6;
+  }
+  .pagination > .active > a:hover,
+  .pagination > .not-allow > a:hover {
+    cursor: text;
+  }
+  .post #paging {
+    margin: 20px 0 40px 0;
+  }
+
+  .page-item {
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+
+/* 問合せフォーム関係 */
+form dl dt {
+	width: 200px;
+	float: left;
+	clear: both;
+	margin-right: 30px;
+}
+
+form .formbtn{
+  text-aligh: center;
+}
+
+form .btns{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 10px;
+	padding: 6px 25px;
+	color: #2b2b2b;
+	font-weight: bold;
+	letter-spacing: 0.5pt;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #2b2b2b;
+	cursor: pointer;
+	transition-duration:0.3s;
+    -webkit-transition-duration:0.3s;
+    -moz-transition-duration:0.3s;
+    -o-transition-duration:0.3s;
+    -ms-transition-duration:0.3s;
+}
+
+form .btns:hover{
+    color: #000;
+    background-color: #dddde6;
+}
+
+.dark textarea {
+    color: #f8f8f2;
+    background: #23252f;
+}
+
+/* 研究・教育ページの見出し */
+.article-style h2 {
+    margin-top: 4rem;
+    font-weight: 700;
+}
+
+.article-style h3 {
+    margin-top: 2.5rem;
+    font-weight: 400;
+}
+
+/* 記号の置き換え */
+.middot-divider::after {
+  content: '';
+}
+
+/* パンくずリスト */
+.breadcrumb-item + .breadcrumb-item::before {
+    content: "＞";
+}
+
+/* カテゴリリストのFlexbox */
+@media only screen and (min-width: 1001px) {
+    .catfloat {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}

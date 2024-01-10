@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 2024年1月10日 --><html lang="ja-jp" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.6" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="../../css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="../../css/wowchemy.564bcac58cc9385cee8618ccb18d6b10.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="../../css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="../../css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="柿沼 英樹" />
+
+
+
+
+
+  
+
+<meta name="description" content="文献管理ソフトZoteroのカスタマイズ備忘録です。" />
+
+
+
+<link rel="alternate" hreflang="ja-jp" href="../../post/zotero/" />
+<link rel="canonical" href="../../post/zotero/" />
+
+
+
+  <link rel="manifest" href="../../manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="../../media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="../../media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="柿沼 英樹  / KAKINUMA, Hideki" />
+<meta property="og:url" content="/post/zotero/" />
+<meta property="og:title" content="Zoteroの見た目を変えるには（Win版） | 柿沼 英樹  / KAKINUMA, Hideki" />
+<meta property="og:description" content="文献管理ソフトZoteroのカスタマイズ備忘録です。" /><meta property="og:image" content="/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-jp" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-01-08T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-01-08T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/zotero/"
+  },
+  "headline": "Zoteroの見た目を変えるには（Win版）",
+  
+  "datePublished": "2024-01-08T00:00:00Z",
+  "dateModified": "2024-01-08T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "柿沼 英樹"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "柿沼 英樹  / KAKINUMA, Hideki",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "文献管理ソフトZoteroのカスタマイズ備忘録です。"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Zoteroの見た目を変えるには（Win版） | 柿沼 英樹  / KAKINUMA, Hideki</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="162d155a6ed7bcaaae746e7bfd65e7ba" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="../../js/wowchemy-init.min.3a6bdbdff5d8a89d6e651adb3deec035.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>検索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="閉じる"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="検索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="検索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="../../">柿沼 英樹  / KAKINUMA, Hideki</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="ナビゲーションの切り替え">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="../../">柿沼 英樹  / KAKINUMA, Hideki</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="../../#about"><span>トップ</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="../../research"><span>研究紹介</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="../../teaching"><span>教育関連</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="../../#posts"><span>雑記</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="../../#contact"><span>お問合せ</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+        <article class="article">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  
+
+<nav>
+  <ul class="breadcrumb">
+    <li><a href="../../">トップ</a></li>
+    <li class="breadcrumb-item"><a href="../../"></a></li>
+    <li class="breadcrumb-item"><a href="../../post/">雑記</a></li>
+    <li class="breadcrumb-item active">Zoteroの見た目を変えるには（Win版）</li>
+  </ul>
+</nav>
+  <h1>Zoteroの見た目を変えるには（Win版）</h1>
+
+  
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          <i class="fas fa-pen-fancy"></i> 2024年1月8日
+      
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="../../category/tools/">研究ツール</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+            <div class="article-container">
+              <div class="article-style">
+                <p>私が文献管理に使用しているZoteroは、オープンソースで開発されていることもあってか、ユーザーが独自のカスタマイズを施す余地が残されています。ここでは個人的な備忘録を兼ねて、ソフトウェアの見た目を変える方法の基本を整理します。</p>
+<p>なお、以下の記述は、Windows 11 HomeにインストールされたZotero 6.0.30に対して適用したものをもとにしています。その他の組み合わせにおいて当てはまらない部分があり得ることはご容赦ください。</p>
+<h2 id="実現したいこと">実現したいこと</h2>
+<hr>
+<p>フォルダ（コレクション）と文献情報が表示される部分は、背景が白一色となっており、件数が増えると一つひとつを視認で区別するのがやや面倒に感じるようになります。そこで、Excelのテーブル機能や一部のメーラーに実装されているような、<b>1行ごとに背景色を変える</b>設定を何とか施したいと思いました。</p>
+<h2 id="カスタマイズ方法">カスタマイズ方法</h2>
+<hr>
+<p>Zoteroの見た目は、FirefoxやThunderbirdと同様に、カスタマイズ内容を記載したuserChrome.cssを所定の位置に配置することによって変更することができます。</p>
+<p>DOM Inspectorのアドオンを用いてカスタマイズしたい箇所の要素名を調べるのが王道ですが、実際には少し手抜き（？）をしました。ほぼすべての部分をダークテーマに対応させる <a href="https://github.com/Rosmaninho/Zotero-Dark-Theme" target="_blank" rel="noopener">Rosmaninho/Zotero-Dark-Theme（※別タブで開きます）</a>を下敷きに、アプリケーション画面の左上にあるフォルダリストの部分と、中央にある文献情報リストの部分の背景色を手探りで特定して、変更を施すことにしました。この雑記では、試行錯誤の過程は脇に置いておいて、最終的なコードのみを記述します。</p>
+<p>具体的な手順は、以下の通りです。</p>
+<ol>
+<li>
+<p>Zoteroが終了していることを確認する。</p>
+</li>
+<li>
+<p>エクスプローラーで、Zoteroのユーザープロファイルフォルダを開く。<br>
+標準では、C:\Users\ユーザ名\AppData\Roaming\Zotero\Zotero\Profiles\任意の文字列.default</p>
+</li>
+<li>
+<p>新規フォルダを作成し、chrome と命名する</p>
+</li>
+<li>
+<p>chromeフォルダ内に新規ファイルを作成し、userChrome.css と命名する</p>
+</li>
+<li>
+<p>userChrome.cssファイルをエディタで開き、以下のコードを追記して上書き保存する。</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">/*change background and color of collections and items panes*/
+</span></span><span class="line"><span class="cl">.virtualized-table .row:nth-child(odd) {
+</span></span><span class="line"><span class="cl">	background: #ffffff;
+</span></span><span class="line"><span class="cl">	color: #323234;
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">.virtualized-table .row:nth-child(even) {
+</span></span><span class="line"><span class="cl">	background: #f5f7fa;
+</span></span><span class="line"><span class="cl">	color: #323234;
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></div><p>.row:nth-child(odd)の記述が奇数行、.row:nth-child(even)の記述が偶数行に適用されます。backgroundは背景色、colorは文字色です。カラーコードはお好みのものに変更してください。</p>
+</li>
+<li>
+<p>Zoteroを起動させ、コードが反映されていることを確認する。</p>
+</li>
+</ol>
+<h2 id="実施前後の比較">実施前後の比較</h2>
+<hr>
+1枚目（左）が変更前、2枚目（右）が変更後のアプリケーション画面（一部）です。この画像では、変更した箇所が強調されるように、上述のコードとは異なる色の設定を行っています。
+<div class="picflex">
+    <img src="images/before.jpg" alt="変更前" class="flexpict">
+    <img src="images/after.jpg" alt="変更後" class="flexpict">
+</div>
+<h2 id="その他">その他</h2>
+<hr>
+<p>同様にCSSを記述すれば、今回設定したところ以外の箇所についても好みの背景色に変えることができます。また、未確認情報で申し訳ないのですが、フォントやサイズについても変更できる部分があるようです。</p>
+
+              </div>
+              
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="../../"><img class="avatar mr-3 avatar-circle" src="../../authors/admin/avatar_hu457cb6b5c51f5047682d4d5b0ccd1acd_1609754_270x270_fill_q75_lanczos_center.jpg" alt="柿沼 英樹"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="../../">柿沼 英樹</a></h5>
+      <p class="card-text">流通科学大学商学部准教授 | 人的資源管理論専攻<br>
+タレントマネジメントや雇用主ブランディングに関する研究に取り組んでいます。</p>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </article>
+  
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<p class="powered-by">
+  
+  <a href="../../privacy/">プライバシーポリシー</a>
+  
+  
+   &middot; 
+  <a href="../../terms/">著作権・免責事項</a>
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 KAKINUMA, Hideki.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a>, and <a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a>.
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="../../js/vendor-bundle.min.56a88ba72e96d180481069df0e6ec5ad.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="../../ja/js/wowchemy.min.b0155c3504bfd3fcc2509101f1658257.js"></script>
+
+
+
+  <script src="../../js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

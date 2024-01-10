@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究ツール | 柿沼 英樹  / KAKINUMA, Hideki</title>
+    <link>/category/tools/</link>
+      <atom:link href="/category/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>研究ツール</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png</url>
+      <title>研究ツール</title>
+      <link>/category/tools/</link>
+    </image>
+    
+    <item>
+      <title>RStudioの見た目を変えるには（Win版）</title>
+      <link>/post/20240110_rstudio/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/20240110_rstudio/</guid>
+      <description>&lt;p&gt;もうひとつ、個人的な備忘録を兼ねて、R言語の統合開発環境 (IDE) であるRStudioの見た目を変える方法も整理しておきたいと思います。&lt;/p&gt;
+&lt;p&gt;なお、以下の記述は、Windows 11 HomeにインストールされたRStudio 2023.12.0 Build369に対して適用したものをもとにしています。その他の組み合わせにおいて当てはまらない部分があり得ることはご容赦ください。&lt;/p&gt;
+&lt;h2 id=&#34;実現したいこと&#34;&gt;実現したいこと&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;ファイル (Files) タブ内などの日本語表示が明朝体になっていて見づらいのが気になっていたので、&lt;b&gt;フォントの設定を変更したい&lt;/b&gt;と思いました。スクリプトビューのフォントは設定画面から変えることができるものの、それ以外の部分については設定画面がないようです。何とかして変更できないものか、と。&lt;/p&gt;
+&lt;h2 id=&#34;カスタマイズ方法&#34;&gt;カスタマイズ方法&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;どなたに教えていただいたのか失念してしまったのですが、Editor themeなるものをカスタマイズすることで変更が可能です。&lt;/p&gt;
+&lt;p&gt;具体的な手順は、以下の通りです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;RStudioで、現在適用されているテーマを確認する。&lt;br&gt;
+Tools &amp;gt; Global Options &amp;gt; Appearance &amp;gt; Editor theme&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;エクスプローラーで、RStudioのテーマファイルの格納されたフォルダを開く。&lt;br&gt;
+標準では、C:\Program Files\RStudio\resources\app\resources\themes？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;現在適用されているテーマと同名の.rsthemeファイルを複製し、任意の名称に変更する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3で作成したファイルをエディタで開き、冒頭の rs-theme-name のあとに続く部分を任意の呼称に書き換える。ここで指定した呼称が設定画面のEditor theme欄に表示されるので、既存のものと区別できるようにする必要があります。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以下のコードを追記して上書き保存する。どの位置に追記しても問題ないようです。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@font-face {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    font-family: &amp;#34;Segoe UI&amp;#34;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    src: local(&amp;#34;Meiryo UI&amp;#34;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;font-familyには変更したいフォント名、srcには置換候補のフォント名を記載します。Windows版の場合は Segoe UI のようです。置換候補のフォントは、local(&amp;ldquo;abc&amp;rdquo;), local(&amp;ldquo;def&amp;rdquo;); のように列挙することも可能で、この場合は前に記載されているものから順に、PC内にあるものが適用されます。ただし、フォントファミリー（sans-serif など）で指定することはできないようです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RStudioで、作成したEditor themeを指定する。&lt;br&gt;
+Tools &amp;gt; Global Options &amp;gt; Appearance &amp;gt; Editor theme&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;実施前後の比較&#34;&gt;実施前後の比較&lt;/h2&gt;
+&lt;hr&gt;
+1枚目（左）が変更前、2枚目（右）が変更後のアプリケーション画面（一部）です。これらの画像では、Textmateが使用されています。
+&lt;div class=&#34;picflex&#34;&gt;
+    &lt;img src=&#34;images/before.jpg&#34; alt=&#34;変更前&#34; class=&#34;flexpict&#34;&gt;
+    &lt;img src=&#34;images/after.jpg&#34; alt=&#34;変更後&#34; class=&#34;flexpict&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;.rsthemeファイルの実体はCSSのようですので、その他の部分についても要素名が分かればカスタマイズできそうです（未確認）。RStudioのウィンドウ内で右クリックして Inspect Element を選ぶと、インスペクターが起動して個別要素を確認できますので、それを参考にトライしてみるのも良いかもしれません。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zoteroの見た目を変えるには（Win版）</title>
+      <link>/post/zotero/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/zotero/</guid>
+      <description>&lt;p&gt;私が文献管理に使用しているZoteroは、オープンソースで開発されていることもあってか、ユーザーが独自のカスタマイズを施す余地が残されています。ここでは個人的な備忘録を兼ねて、ソフトウェアの見た目を変える方法の基本を整理します。&lt;/p&gt;
+&lt;p&gt;なお、以下の記述は、Windows 11 HomeにインストールされたZotero 6.0.30に対して適用したものをもとにしています。その他の組み合わせにおいて当てはまらない部分があり得ることはご容赦ください。&lt;/p&gt;
+&lt;h2 id=&#34;実現したいこと&#34;&gt;実現したいこと&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;フォルダ（コレクション）と文献情報が表示される部分は、背景が白一色となっており、件数が増えると一つひとつを視認で区別するのがやや面倒に感じるようになります。そこで、Excelのテーブル機能や一部のメーラーに実装されているような、&lt;b&gt;1行ごとに背景色を変える&lt;/b&gt;設定を何とか施したいと思いました。&lt;/p&gt;
+&lt;h2 id=&#34;カスタマイズ方法&#34;&gt;カスタマイズ方法&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Zoteroの見た目は、FirefoxやThunderbirdと同様に、カスタマイズ内容を記載したuserChrome.cssを所定の位置に配置することによって変更することができます。&lt;/p&gt;
+&lt;p&gt;DOM Inspectorのアドオンを用いてカスタマイズしたい箇所の要素名を調べるのが王道ですが、実際には少し手抜き（？）をしました。ほぼすべての部分をダークテーマに対応させる &lt;a href=&#34;https://github.com/Rosmaninho/Zotero-Dark-Theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rosmaninho/Zotero-Dark-Theme（※別タブで開きます）&lt;/a&gt;を下敷きに、アプリケーション画面の左上にあるフォルダリストの部分と、中央にある文献情報リストの部分の背景色を手探りで特定して、変更を施すことにしました。この雑記では、試行錯誤の過程は脇に置いておいて、最終的なコードのみを記述します。&lt;/p&gt;
+&lt;p&gt;具体的な手順は、以下の通りです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Zoteroが終了していることを確認する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;エクスプローラーで、Zoteroのユーザープロファイルフォルダを開く。&lt;br&gt;
+標準では、C:\Users\ユーザ名\AppData\Roaming\Zotero\Zotero\Profiles\任意の文字列.default&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新規フォルダを作成し、chrome と命名する&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;chromeフォルダ内に新規ファイルを作成し、userChrome.css と命名する&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;userChrome.cssファイルをエディタで開き、以下のコードを追記して上書き保存する。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/*change background and color of collections and items panes*/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.virtualized-table .row:nth-child(odd) {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	background: #ffffff;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	color: #323234;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.virtualized-table .row:nth-child(even) {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	background: #f5f7fa;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	color: #323234;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;.row:nth-child(odd)の記述が奇数行、.row:nth-child(even)の記述が偶数行に適用されます。backgroundは背景色、colorは文字色です。カラーコードはお好みのものに変更してください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zoteroを起動させ、コードが反映されていることを確認する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;実施前後の比較&#34;&gt;実施前後の比較&lt;/h2&gt;
+&lt;hr&gt;
+1枚目（左）が変更前、2枚目（右）が変更後のアプリケーション画面（一部）です。この画像では、変更した箇所が強調されるように、上述のコードとは異なる色の設定を行っています。
+&lt;div class=&#34;picflex&#34;&gt;
+    &lt;img src=&#34;images/before.jpg&#34; alt=&#34;変更前&#34; class=&#34;flexpict&#34;&gt;
+    &lt;img src=&#34;images/after.jpg&#34; alt=&#34;変更後&#34; class=&#34;flexpict&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;同様にCSSを記述すれば、今回設定したところ以外の箇所についても好みの背景色に変えることができます。また、未確認情報で申し訳ないのですが、フォントやサイズについても変更できる部分があるようです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
