@@ -23,9 +23,9 @@ sections:
         * and more...
         
         ## Professional Membership
-        * Japan Society of Human Resource Management（日本労務学会）
-        * The Academic Association for Organizational Science（組織学会）
-        * The Japanese Association of Administrative Science（経営行動科学学会）
+        * Japan Society of Human Resource Management
+        * The Academic Association for Organizational Science
+        * The Japanese Association of Administrative Science
 
         Detailed CV (incl. Japanese papers and talks) is available upon request.
   design:
