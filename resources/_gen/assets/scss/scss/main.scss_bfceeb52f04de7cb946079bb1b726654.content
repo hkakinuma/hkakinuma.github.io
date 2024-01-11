@@ -9920,3 +9920,6 @@ form .btns:hover {
 
 .card-simple {
   padding: 0.2rem 0 0.5rem 1.5rem; }
+
+.article-style h2:first-child {
+  margin-top: 2rem; }

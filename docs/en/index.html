@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 10, 2024 --><html lang="en-us" >
+<!-- Last Published: January 11, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -226,7 +226,7 @@
   
   
   
-  <link rel="stylesheet" href="../css/wowchemy.564bcac58cc9385cee8618ccb18d6b10.css" />
+  <link rel="stylesheet" href="../css/wowchemy.b67266310dc52b321875815dc5223a42.css" />
 
   
   
@@ -250,6 +250,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DKQ0NBXJNZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-DKQ0NBXJNZ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -850,7 +889,7 @@
     <div class="article-style">
       <p>KAKINUMA, Hideki is an Associate Professor of Human Resource Management, Faculty of Commerce, University of Marketing and Distribution Sciences. The University is located in Kobe, Japan.</p>
 <p>His research field encompasses human resource management and organizational behavior. He is now focusing on talent management and employer branding. Additionally, he is interested in working on bibliometric analysis of management research.</p>
-<p>He has working experiences in both industrial and academic worlds. In the industrial world, he worked in an HR-related services firm for 2 years. In the academic world, he enrolled several positions such as a Part-time Lecturer at Kyoto University, as a Visiting Scholar at Vietnam National University, Hanoi.</p>
+<p>He has working experiences in both industrial and academic worlds. In the industrial world, he worked in an HR-related services firm for 2 years. In the academic world, he enrolled several positions such as a Part-time Lecturer at Kyoto University, and as a Visiting Scholar at Vietnam National University, Hanoi.</p>
 
     </div>
 
@@ -1028,9 +1067,9 @@
 </ul>
 <h2 id="professional-membership">Professional Membership</h2>
 <ul>
-<li>Japan Society of Human Resource Management（日本労務学会）</li>
-<li>The Academic Association for Organizational Science（組織学会）</li>
-<li>The Japanese Association of Administrative Science（経営行動科学学会）</li>
+<li>Japan Society of Human Resource Management</li>
+<li>The Academic Association for Organizational Science</li>
+<li>The Japanese Association of Administrative Science</li>
 </ul>
 <p>Detailed CV (incl. Japanese papers and talks) is available upon request.</p>
   </div>
@@ -1272,7 +1311,9 @@
 
 
 <div class="col-12 col-lg-8">
-  
+  You are welcome to contact me by e-mail for inquiry. <br/>
+  When using e-mail address below, please convert [at] into @.
+
 
   
 
