@@ -18,4 +18,4 @@ lastmod:
 「今後執筆する予定の論文や書籍の補論となりそうな要素をとりあえず論文としてまとめておこう」というような動機から執筆しているため、いろいろと荒削りな部分が否めないのが実際ではあります。しかし、計量書誌学的手法について日本語で読める解説はあまり多くないような印象がありますので、最初の取っ掛かりとしては一定の価値があるのではないかと考えています。
 
 ご興味のある方は、以下のリンクからご覧ください（別タブで開きます）。\
-<a href="https://ryuka.repo.nii.ac.jp/records/2000018" target="_blank" rel="noopener noreferrer">論文ページ（機関レポジトリ）</a>
+<a href="https://ryuka.repo.nii.ac.jp/records/2000022" target="_blank" rel="noopener noreferrer">論文ページ（機関レポジトリ）</a>
