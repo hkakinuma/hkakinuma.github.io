@@ -2,7 +2,7 @@
 title: 研究紹介
 type: post
 date: 2023-04-03
-lastmod: 2024-01-11
+lastmod: 2024-04-01
 toc: false
 ---
 
