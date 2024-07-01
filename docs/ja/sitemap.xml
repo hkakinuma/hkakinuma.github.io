@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/category/research/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/teaching/</loc>
@@ -15,19 +15,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/general/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/notice/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <loc>/post/20240630_jshrm/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -39,6 +39,14 @@
                 hreflang="ja-jp"
                 href="/category/"
                 />
+  </url><url>
+    <loc>/post/20240625_seminar/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/notice/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/20240110_rstudio/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
