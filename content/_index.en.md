@@ -18,6 +18,7 @@ sections:
         * Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. _International Journal of Business and Management_, _10_ (2), pp.31-40.
 
         ## Talks (by English)
+        * Kakinuma, H. (2024). Detecting conceptual boundaries between talent management and strategic human resource management: Bibliometric mapping of academic literature. Paper presented at the 13th EIASM Workshop on Talent Management. [Chambre de Commerce Luxembourg, Luxembourg]
         * <u>Kakinuma, H.</u>, Yamamoto, A., & Wakabayashi, N. (2018). How can we get long-stay reservation from new employees? An exploratory analysis of employee retention in the lodging industry in Kyoto. Paper Presented at the 16th APacCHRIE Conference. [Sun Yat-Sen University, Guanzhou, China]
         * Kakinuma, H. (2016). The divergence in Chinese graduates' decision criteria for job choice: An experiemental-designed investigation. Paper Presented at Management Theory and Practice Conference. [Kyoto University, Kyoto, Japan]
         * and more...
@@ -27,6 +28,8 @@ sections:
         * The Academic Association for Organizational Science
         * The Japanese Association of Administrative Science
 
+        ORCiD: [0009-0009-0605-1662](https://orcid.org/0009-0009-0605-1662)
+        
         Detailed CV (incl. Japanese papers and talks) is available upon request.
   design:
     columns: '2'
