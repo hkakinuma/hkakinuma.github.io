@@ -5,12 +5,27 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>雑記</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png</url>
       <title>雑記</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>論文掲載</title>
+      <link>/post/20250331_article/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/post/20250331_article/</guid>
+      <description>&lt;p&gt;所属機関である流通科学大学の研究紀要に、論文（査読なし）が掲載されました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;柿沼英樹 (2025). 「日本企業の有価証券報告書は人事管理を語るのか：人的資本経営の普及期に注目した探索的分析」『流通科学大学論集 流通・経営編』&lt;em&gt;37&lt;/em&gt; (2), 99-110.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この論文は、2024年6月に開催された日本労務学会第54回全国大会での口頭発表をもとに、改題・加筆修正を行ったものです。JPX日経400に選定された企業の2020年3月期から2023年3月期までの有価証券報告書から抽出したテキストデータを分析し、人的資本経営が叫ばれるなかでの定性的記述の変化傾向を捉えています。&lt;/p&gt;
+&lt;p&gt;ご興味のある方は、以下のリンクからご覧ください（別タブで開きます）。&lt;br&gt;
+&lt;a href=&#34;https://ryuka.repo.nii.ac.jp/records/2000211&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;論文ページ（機関レポジトリ）&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>学会パネルセッションへの登壇</title>
