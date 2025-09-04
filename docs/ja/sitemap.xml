@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/category/research/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/teaching/</loc>
@@ -18,16 +18,16 @@
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/20250331_article/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <loc>/post/article/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -39,6 +39,14 @@
                 hreflang="ja-jp"
                 href="/category/"
                 />
+  </url><url>
+    <loc>/post/media/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/20250331_article/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/20241027_bhsj/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
