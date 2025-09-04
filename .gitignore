@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Hugo files
 .hugo_build.lock
+
+#作業中ファイル
+form.md
