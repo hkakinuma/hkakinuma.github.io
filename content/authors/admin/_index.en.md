@@ -1,5 +1,5 @@
 ---
-bio: Prof. of Human Resource Management, University of Marketing and Distribution Sciences, Japan.
+bio: Assoc.Prof. of Organizational Behavior, Doshisha University, Japan.
 education:
   courses:
   - course: Ph.D. in Economics
@@ -20,14 +20,14 @@ interests:
 - Bibliometrics
 last_name: KAKINUMA
 organizations:
-- name: Professor
+- name: Associate Professor
   url: 
-role: University of Marketing and Distribution Sciences
+role: Doshisha University
 superuser: true
 title: KAKINUMA, Hideki
 ---
 
-KAKINUMA, Hideki is a Professor of Human Resource Management, Faculty of Commerce, University of Marketing and Distribution Sciences. The University is located in Kobe, Japan.
+KAKINUMA, Hideki is an Associate Professor of Organizational Behavior, Faculty of Commerce, Doshisha University. The University is located in Kyoto City, Japan.
 
 His research field encompasses human resource management and organizational behavior. He is now focusing on talent management and employer branding. Additionally, he is interested in working on bibliometric analysis of management research.
 

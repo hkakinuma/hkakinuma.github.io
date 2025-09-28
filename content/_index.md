@@ -37,10 +37,10 @@ sections:
           メールアドレス内の [at] はアットマークに書き換えてください。</p>
           <ul class="fa-ul wg-contact">
           <li><i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-          <span id="person-email">hideki_kakinuma [at] red.umds.ac.jp</span>
+          <span id="person-email">hkakinum [at] mail.doshisha.ac.jp</span>
           </li>
           <li><i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">〒651-2188<br>兵庫県神戸市西区学園西町3-1<br>流通科学大学商学部　柿沼 英樹</span>
+          <span id="person-address">〒602-8580<br>京都市上京区今出川通烏丸東入 至誠館427号室<br>同志社大学商学部　柿沼 英樹</span>
           </li></ul>
     title: お問合せ
   design:

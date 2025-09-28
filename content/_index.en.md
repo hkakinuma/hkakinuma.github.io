@@ -53,7 +53,7 @@ sections:
 - block: contact
   content:
     autolink: false
-    email: hideki_kakinuma [at] red.umds.ac.jp
+    email: hkakinum [at] mail.doshisha.ac.jp
     # form:
     #   formspree:
     #     id: null
