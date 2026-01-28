@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/category/research/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/teaching/</loc>
@@ -18,16 +18,16 @@
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/transfer/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <loc>/post/jaas/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -39,6 +39,10 @@
                 hreflang="ja-jp"
                 href="/category/"
                 />
+  </url><url>
+    <loc>/post/transfer/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/article/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>

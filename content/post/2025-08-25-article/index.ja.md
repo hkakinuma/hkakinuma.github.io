@@ -22,3 +22,6 @@ lastmod:
 
 
 ご興味のある方は、ぜひお手に取っていただけますと幸いです。
+
+以下のリンクより、2025年11月頃よりPDFが閲覧いただけます（別タブで開きます）。\
+<a href="https://www.jil.go.jp/institute/zassi/backnumber/2025/09/index.html" target="_blank" rel="noopener noreferrer">『日本労働研究雑誌』2025年9月号 目次</a>
