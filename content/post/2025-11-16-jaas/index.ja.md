@@ -2,7 +2,7 @@
 title: 経営行動科学学会での研究発表
 author: admin
 date: '2025-11-16'
-slug: jaas
+slug: 20251116_jaas
 categories:
   - 研究
 tags: []

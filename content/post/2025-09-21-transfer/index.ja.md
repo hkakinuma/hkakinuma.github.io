@@ -2,7 +2,7 @@
 title: 所属機関が変わりました
 author: admin
 date: '2025-09-21'
-slug: transfer
+slug: 20250921_transfer
 categories:
   - 一般
 tags: []

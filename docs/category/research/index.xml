@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>研究 | 柿沼 英樹  / KAKINUMA, Hideki</title>
+    <title>研究 | KAKINUMA Hideki / 柿沼 英樹</title>
     <link>/category/research/</link>
       <atom:link href="/category/research/index.xml" rel="self" type="application/rss+xml" />
     <description>研究</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1ab667d9c8d2dcd76c6fa15c5d4e2f44_31314_512x512_fill_lanczos_center_3.png</url>
       <title>研究</title>
@@ -13,10 +13,53 @@
     </image>
     
     <item>
+      <title>論文掲載</title>
+      <link>/post/20260626_article/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/post/20260626_article/</guid>
+      <description>&lt;p&gt;所属機関である同志社大学商学部が関わる学術誌に、論文（査読なし）が掲載されました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;柿沼英樹 (2026). 「日本企業におけるタレントマネジメントの類型化：タレントマネジメント哲学にもとづく定量的検討」『同志社商学』&lt;em&gt;78&lt;/em&gt;(1), 41-54.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この論文では、日本企業におけるタレントマネジメントの実態を捉えるために、タレントマネジメントの全体設計や運用にかかわる基本的仮定としての「タレントマネジメント哲学 (talent management philosophies)」に注目しました。具体的には、対象とする従業員の範囲の広狭をあらわす「選別的－包摂的」と、従業員の能力・資質の変容可能性にかかわる認識をあらわす「安定的－開発可能」の2軸によって各社のタレントマネジメントを特徴づけ、どのような実践のタイプがみられるのかを把握しようと試みました。&lt;/p&gt;
+&lt;p&gt;「タレントマネジメントを実践している」と明示する日本企業の人事部門に就業する145名から回答を得た調査データを分析した結果、日本企業には「選別的－安定的」「選別的－開発可能」「包摂的－安定的」「包摂的－開発可能」の4つのタレントマネジメント哲学すべてが発現していること、なかでも「包摂的－安定的」な哲学が相対的に多く発現していることが明らかとなりました。&lt;/p&gt;
+&lt;p&gt;これらの結果は、日本企業のタレントマネジメントが単一のモデルには還元できないことを示唆するものであると考えています。つまり、それぞれの企業組織におけるタレントマネジメント哲学の違いを考慮して「タレントマネジメント」を論じる必要があるということです。多様なタレントマネジメントが存在するとすれば、たとえば「哲学Aは良好に機能するけど、哲学Bは機能しない」のようなことがあり得るのかもしれません。この点については、今後の研究において考えてみたいと思っているところです。&lt;/p&gt;
+&lt;p&gt;ご興味のある方は、ぜひお手に取っていただけますと幸いです。&lt;/p&gt;
+&lt;p&gt;【2026年7月23日追記】
+以下のリンクより、PDFが閲覧いただけます（別タブで開きます）。&lt;br&gt;
+&lt;a href=&#34;https://doshisha.repo.nii.ac.jp/records/2001923&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;同志社大学 学術リポジトリ 当該論文ページ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>国際学会でのポスター発表</title>
+      <link>/post/20260506_ukhrmconf/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>/post/20260506_ukhrmconf/</guid>
+      <description>&lt;p&gt;King&amp;rsquo;s College London（イギリス）で開催された The 2026 Conference of the Department of Human Resource Management &amp;amp; Employment Relations: Shaping the Future of Work に参加し、&amp;ldquo;Talent management and organizational performance: Examining the mediating role of human capital resources in Japanese firms&amp;rdquo; と題したポスター発表を行いました。&lt;/p&gt;
+&lt;p&gt;報告内容は、2025年11月に経営行動科学学会にて口頭発表したものをベースに、分析モデルを変更したものです。具体的には、「タレントマネジメントの実践→組織レベルの人的資本資源 (human capital resources)→営業利益」という媒介モデルを想定し、日本企業の人事部門に就業する380名から回答を得た調査データを用いて分析を行いました。分析の結果、タレントマネジメントの実践は、営業利益に直接的に正の影響を与えるとともに、組織の人的資本資源を高めることを通じて、営業利益の向上に寄与するという間接的な正の影響も与えていることが示されました。&lt;/p&gt;
+&lt;p&gt;この結果からは、タレントマネジメントの実践がどのように最終成果につながるのかというメカニズム（の一部）を「組織レベルの人的資本資源の形成」が説明する可能性が考えられます。ただし、因果関係を明確に規定するような調査デザインを用いてはいないため、やや厳密さを欠いた試論的なものであると割り引いて評価する必要はあります。今後の研究では、人的資本資源に関する研究蓄積も踏まえながら綿密な調査設計を行い、さらなる検討を進めていきたいと考えています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>書評掲載</title>
+      <link>/post/20260410_review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/post/20260410_review/</guid>
+      <description>&lt;p&gt;『国民経済雑誌』Vol.230, No.2に、江夏幾多郎（神戸大学経済経営研究所）・田中秀樹（同志社大学政策学部）・余合淳（南山大学経営学部）の3氏が2024年に有斐閣から出版された『人事管理のリサーチ・プラクティス・ギャップ：日本における関心の分化と架橋』の書評を寄稿しました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;柿沼英樹 (2026). 「書評：江夏幾多郎・田中秀樹・余合淳『人事管理のリサーチ・プラクティス・ギャップ：日本における関心の分化と架橋』」『国民経済雑誌』&lt;em&gt;230&lt;/em&gt;(2), 133-138.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;オンライン公開は、刊行から1年後の予定となっております。ご関心のある方は、大学図書館などにてお手に取っていただけますと幸いです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>経営行動科学学会での研究発表</title>
-      <link>/post/jaas/</link>
+      <link>/post/20251116_jaas/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/post/jaas/</guid>
+      <guid>/post/20251116_jaas/</guid>
       <description>&lt;p&gt;香川大学にて開催された経営行動科学学会第28回年次大会にて、「日本企業におけるタレントマネジメントの実践成果：試行的分析」と題した研究発表を行いました。なお、この研究はJSPS科研費20K13607および24K16434の助成を受けたものです。&lt;/p&gt;
 &lt;p&gt;この研究発表では、日本企業において人事業務を担当する部署に勤務する部長職以上の380名から取得したデータをもとに、タレントマネジメントの実践（「タレントマネジメント」と自認するものに取り組んでいるか否か／欧米圏で開発された施策尺度のスコア）が (1) 人事成果や (2) 人的資本資源、(3) 競合他社と相対比較した営業利益の良し悪しの3つの組織レベルの成果とどのように関連しているのかを検討しました。&lt;/p&gt;
 &lt;p&gt;分析の結果、これらの組織レベルの成果に対して、タレントマネジメント施策尺度のスコアが有意な正の影響をもっていることなどが明らかになりました。データ取得や分析方法による制約を割り引いて考える必要はあるものの、単純には「タレントマネジメントの実践が組織成果を高める」ことが日本企業において確認されたと解釈することができそうです。今後は、タレントマネジメントのどういった側面が成果につながるのかや、タレントマネジメントの実践が最終的な財務指標につながるまでの経路がどうなっているのかなどについて、さらなる検討を進めていきたいと考えています。&lt;/p&gt;
@@ -27,9 +70,9 @@
     
     <item>
       <title>論文掲載</title>
-      <link>/post/article/</link>
+      <link>/post/20250825_article/</link>
       <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/post/article/</guid>
+      <guid>/post/20250825_article/</guid>
       <description>&lt;p&gt;労働政策研究・研修機構が発行する『日本労働研究雑誌』2025年9月号に、招待論文（査読なし）が掲載されました。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;柿沼英樹 (2025). 「タレントマネジメントにおける人材育成の位相と課題」『日本労働研究雑誌』782, 74-83.&lt;/p&gt;
@@ -45,9 +88,9 @@
     
     <item>
       <title>インタビュー記事の掲載</title>
-      <link>/post/media/</link>
+      <link>/post/20250801_media/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/post/media/</guid>
+      <guid>/post/20250801_media/</guid>
       <description>&lt;p&gt;先端教育機構が発行する雑誌『月刊先端教育』2025年9月号に、タレントマネジメントに関するインタビュー記事が掲載されました。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;柿沼英樹 (2025). 「タレントマネジメントの実践に向けて 人材戦略の全体像を構築し、一貫した施策を打つことが重要」『月刊先端教育』&lt;em&gt;70&lt;/em&gt;, 18-19.&lt;/p&gt;

@@ -2,7 +2,7 @@
 title: インタビュー記事の掲載
 author: admin
 date: '2025-08-01'
-slug: media
+slug: 20250801_media
 categories:
   - 研究
 tags: []

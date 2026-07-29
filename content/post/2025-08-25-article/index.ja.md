@@ -2,11 +2,11 @@
 title: 論文掲載
 author: admin
 date: '2025-08-25'
-slug: article
+slug: 20250825_article
 categories:
   - 研究
 tags: []
-summary: '『日本労働研究雑誌』に論文が掲載されました。'
+summary: '『日本労働研究雑誌』に招待論文が掲載されました。'
 authors: []
 lastmod: 
 ---

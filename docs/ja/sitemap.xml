@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/category/research/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/teaching/</loc>
@@ -18,16 +18,16 @@
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/jaas/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <loc>/post/20260626_article/</loc>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/category/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -40,15 +40,27 @@
                 href="/category/"
                 />
   </url><url>
-    <loc>/post/transfer/</loc>
+    <loc>/post/20260506_ukhrmconf/</loc>
+    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/20260410_review/</loc>
+    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/20251116_jaas/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/20250921_transfer/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/article/</loc>
+    <loc>/post/20250825_article/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/media/</loc>
+    <loc>/post/20250801_media/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

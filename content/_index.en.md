@@ -11,13 +11,13 @@ sections:
     title: Research
     text: |
         ## Projects in Progress
-        * Theoretical re-consideration of talent management
-        * Practices of talent management and its implications for Japanese companies
-        * Bibliometric analysis of employer branding
-        ## Journal Paper (Peer-reviewed, by English)
+        * Examining how the alignment between talent management philosophies and talent management practices influences organizational performance
+        * Mapping the intellectual structure and evolution of talent management research through bibliometric analysis
+        ## Selected Journal Paper
         * Kakinuma, H. (2015). How companies can attract the talented Vietnamese graduates? An experimental-designed investigation. _International Journal of Business and Management_, _10_ (2), pp.31-40.
 
-        ## Talks (by English)
+        ## Selected International Conference Presentations
+        * Kakinuma, H. (2026). Talent management and organizational performance: Examining the mediating role of human capital resources in Japanese firms. Poster presented at the 2026 Conference of the Department of Human Resource Management & Employment Relations: Shaping the Future of Work. [King's College London, UK.]
         * Kakinuma, H. (2024). Detecting conceptual boundaries between talent management and strategic human resource management: Bibliometric mapping of academic literature. Paper presented at the 13th EIASM Workshop on Talent Management. [Chambre de Commerce Luxembourg, Luxembourg]
         * <u>Kakinuma, H.</u>, Yamamoto, A., & Wakabayashi, N. (2018). How can we get long-stay reservation from new employees? An exploratory analysis of employee retention in the lodging industry in Kyoto. Paper Presented at the 16th APacCHRIE Conference. [Sun Yat-Sen University, Guanzhou, China]
         * Kakinuma, H. (2016). The divergence in Chinese graduates' decision criteria for job choice: An experiemental-designed investigation. Paper Presented at Management Theory and Practice Conference. [Kyoto University, Kyoto, Japan]
@@ -38,14 +38,16 @@ sections:
   content:
     text: |
         ## Bachelor class
-        * Human Resource Management
-        * Business Administration
-        * Introduction to Management
-        * Career Management
-        * Life Planning and Personal Finance
+        * Organizational Behavior
+        * Human resource management
+        * Business administration
+        * Introduction to management
+        * Career management
+        * Life planning and personal finance
 
         ## Master class
         * Leadership
+        * Talent management
     title: Teaching Experiences
   design:
     columns: "2"

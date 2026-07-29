@@ -15,6 +15,7 @@ education:
     year: 2007
 interests:
 - タレントマネジメント
+- 人的資本資源
 - 雇用主ブランディング
 - 計量書誌学
 email: ""

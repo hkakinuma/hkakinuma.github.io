@@ -17,7 +17,8 @@ highlight_name: false
 interests:
 - Talent management
 - Employer branding
-- Bibliometrics
+- Human capital resources
+- Bibliometric methods
 last_name: KAKINUMA
 organizations:
 - name: Associate Professor
@@ -27,8 +28,6 @@ superuser: true
 title: KAKINUMA, Hideki
 ---
 
-KAKINUMA, Hideki is an Associate Professor of Organizational Behavior, Faculty of Commerce, Doshisha University. The University is located in Kyoto City, Japan.
+KAKINUMA Hideki is an Associate Professor at the Faculty of Commerce, Doshisha University, Japan.
 
-His research field encompasses human resource management and organizational behavior. He is now focusing on talent management and employer branding. Additionally, he is interested in working on bibliometric analysis of management research.
-
-He has working experiences in both industrial and academic worlds. In the industrial world, he worked in an HR-related services firm for 2 years. In the academic world, he enrolled several positions such as a Part-time Lecturer at Kyoto University, and as a Visiting Scholar at Vietnam National University, Hanoi.
+His research and teaching interests include human resource management and organizational behavior. His research focuses on talent management, with particular interests in the development of talent management theory and practice in Japanese firms. He also employs bibliometric methods to examine the intellectual structure and evolution of management research. His current research investigates how talent management contributes to organizational performance.

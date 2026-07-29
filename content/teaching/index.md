@@ -1,5 +1,5 @@
 ---
-title: 教育活動
+title: 教育関連
 type: post
 date: 2023-04-03
 lastmod: 2026-04-01 
